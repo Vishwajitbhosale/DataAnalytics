@@ -1,0 +1,820 @@
+SALE TYPE,PROPERTY TYPE,CITY,STATE OR PROVINCE,PRICE,BEDS,BATHS,LOCATION,SQUARE FEET,YEAR BUILT,DAYS ON MARKET,$/SQUARE FEET,STATUS,SOURCE,MLS#,LATITUDE,LONGITUDE
+Redfin Data,Single Family Residential,Fremont,CA,1300000,3.0,2.0,Fremont,1067.0,1961.0,7.0,1218.0,Pre On-Market,Coming Soon,92185,37.5293388,-121.9900332
+Redfin Data,Single Family Residential,Fremont,CA,1380000,4.0,2.5,Fremont,1866.0,1998.0,21.0,740.0,Pre On-Market,Coming Soon,91889,37.5436473,-122.0148182
+MLS Listing,Single Family Residential,Fremont,CA,900000,3.0,2.0,Niles Area,1120.0,1955.0,1.0,804.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41025752,37.5762266,-121.9605758
+MLS Listing,Townhouse,Fremont,CA,990000,3.0,1.5,Valle De La Paz,1242.0,1971.0,1.0,797.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41025224,37.5369587,-121.9236931
+MLS Listing,Townhouse,Fremont,CA,748888,3.0,1.5,Cherry Lane,1180.0,1971.0,2.0,635.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41025667,37.566879,-121.970475
+MLS Listing,Single Family Residential,Fremont,CA,1688000,4.0,3.0,FREMONT,2160.0,1965.0,2.0,781.0,Active,MLSListings,ML81924624,37.5637557,-122.0249722
+MLS Listing,Condo/Co-op,Fremont,CA,1314374,2.0,2.0,Warm Springs,1856.0,2023.0,3.0,708.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41025519,37.5023864,-121.9342993
+MLS Listing,Condo/Co-op,Fremont,CA,425000,1.0,1.0,Parkmont,750.0,1970.0,3.0,567.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41025516,37.5583904,-121.990087
+MLS Listing,Townhouse,Fremont,CA,669000,2.0,1.5,La Casa Real,1120.0,1980.0,3.0,597.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41025125,37.568622,-121.965359
+MLS Listing,Single Family Residential,Fremont,CA,1200000,2.0,2.0,Irvington,894.0,1946.0,3.0,1342.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41025511,37.5297278,-121.9558189
+MLS Listing,Single Family Residential,Fremont,CA,1150000,3.0,2.0,South Sundale,1201.0,1955.0,3.0,958.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41024578,37.5342983,-121.9689638
+MLS Listing,Single Family Residential,Fremont,CA,1599888,3.0,2.0,Peralta Greens,1680.0,1963.0,3.0,952.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41025483,37.5586405,-121.9975386
+MLS Listing,Townhouse,Fremont,CA,949000,2.0,2.5,FREMONT,1309.0,1997.0,3.0,725.0,Active,MLSListings,ML81926160,37.545829,-121.973487
+MLS Listing,Single Family Residential,Fremont,CA,1299888,4.0,2.0,Cabrillo,1740.0,1962.0,3.0,747.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41025439,37.5601803,-122.0197116
+MLS Listing,Single Family Residential,Fremont,CA,1050000,3.0,1.0,Sundale Manor,1064.0,1962.0,3.0,987.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41025405,37.5193691,-121.9772303
+MLS Listing,Single Family Residential,Fremont,CA,2199000,3.0,2.0,Mission Area,2136.0,1965.0,3.0,1029.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41025430,37.5324003,-121.9326835
+MLS Listing,Condo/Co-op,Fremont,CA,476000,1.0,1.0,Adobe Hills,693.0,1990.0,3.0,687.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41023396,37.5582495,-121.9694842
+MLS Listing,Single Family Residential,Fremont,CA,1799000,3.0,2.5,Warm Springs,1852.0,1964.0,4.0,971.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41025409,37.4720155,-121.9133761
+MLS Listing,Single Family Residential,Fremont,CA,1100000,3.0,2.0,FREMONT,1116.0,1961.0,4.0,986.0,Active,MLSListings,ML81926024,37.5280358,-121.9893651
+MLS Listing,Single Family Residential,Fremont,CA,1774900,4.0,2.0,Warm Springs,1964.0,1970.0,4.0,904.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41025107,37.4837334,-121.9154528
+MLS Listing,Condo/Co-op,Fremont,CA,950000,2.0,2.5,FREMONT,1248.0,1989.0,4.0,761.0,Active,MLSListings,ML81925989,37.5635228,-121.9728609
+MLS Listing,Townhouse,Fremont,CA,1299000,4.0,4.0,FREMONT,1975.0,2019.0,4.0,658.0,Active,MLSListings,ML81925817,37.535889,-121.963092
+MLS Listing,Single Family Residential,Fremont,CA,1949888,3.0,3.0,Gomes,1696.0,1977.0,5.0,1150.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41025248,37.5454868,-121.9543545
+MLS Listing,Townhouse,Fremont,CA,1020000,3.0,2.5,Lake Pointe,1400.0,1995.0,5.0,729.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41025228,37.5608105,-121.9726944
+MLS Listing,Single Family Residential,Fremont,CA,1199999,3.0,1.0,FREMONT,1014.0,1959.0,6.0,1183.0,Active,MLSListings,ML81924723,37.5850349,-121.9596813
+MLS Listing,Single Family Residential,Milpitas,CA,1499000,4.0,2.5,MILPITAS,1943.0,1960.0,6.0,771.0,Active,MLSListings,ML81925803,37.4633092,-121.9057744
+MLS Listing,Single Family Residential,Fremont,CA,1438000,3.0,2.0,Niles Area,1576.0,1955.0,6.0,912.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41024536,37.579318,-122.001434
+MLS Listing,Single Family Residential,Fremont,CA,1999000,4.0,2.0,Mission San Jose,2028.0,1964.0,6.0,986.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41023938,37.5323482,-121.9312012
+MLS Listing,Condo/Co-op,Fremont,CA,780000,3.0,2.0,Warm Springs,1214.0,1987.0,7.0,643.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41024397,37.4885725,-121.9269028
+MLS Listing,Single Family Residential,Fremont,CA,1469000,4.0,2.0,FREMONT,1773.0,1975.0,7.0,829.0,Active,MLSListings,ML81925696,37.5681248,-122.0387519
+MLS Listing,Single Family Residential,Fremont,CA,3188888,6.0,4.5,Riverwalk,3400.0,2001.0,9.0,938.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41023285,37.5659762,-121.9887432
+MLS Listing,Condo/Co-op,Fremont,CA,1178283,2.0,2.0,Warm Springs,1743.0,2023.0,9.0,676.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41024994,37.5023864,-121.9342993
+MLS Listing,Single Family Residential,Fremont,CA,4600000,5.0,3.5,Ponderosa,3811.0,1998.0,9.0,1207.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41024984,37.4717959,-121.8930146
+MLS Listing,Single Family Residential,Fremont,CA,1385000,3.0,2.0,Irvington,1310.0,1958.0,10.0,1057.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41024886,37.5239985,-121.9608878
+MLS Listing,Condo/Co-op,Fremont,CA,665000,2.0,2.0,FREMONT,926.0,1987.0,10.0,718.0,Active,MLSListings,ML81925465,37.487509,-121.924291
+MLS Listing,Condo/Co-op,Fremont,CA,919888,2.0,3.0,Andalusia,1578.0,1991.0,10.0,583.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41024823,37.558107,-121.966091
+MLS Listing,Condo/Co-op,Fremont,CA,899000,2.0,2.0,Downtown Fremont,1109.0,2020.0,10.0,811.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41024787,37.548923,-121.9850225
+MLS Listing,Condo/Co-op,Fremont,CA,699800,2.0,2.0,Mission Terrace,936.0,1987.0,10.0,748.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41024718,37.488597,-121.9279668
+MLS Listing,Single Family Residential,Fremont,CA,4499000,5.0,4.5,Chadbourne,5667.0,2013.0,10.0,794.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41023662,37.5471824,-121.9403338
+MLS Listing,Single Family Residential,Fremont,CA,2343000,4.0,2.0,Glenmoor Village,2281.0,1999.0,10.0,1027.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41024717,37.5473988,-122.0032685
+MLS Listing,Condo/Co-op,Fremont,CA,668000,2.0,2.0,Warm Springs,740.0,1983.0,11.0,903.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41024716,37.4854633,-121.9256007
+MLS Listing,Townhouse,Fremont,CA,1343880,4.0,3.5,Warm Springs,2086.0,2023.0,11.0,644.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41024668,37.5042267,-121.9643745
+MLS Listing,Single Family Residential,Fremont,CA,1100000,3.0,1.0,FREMONT,1200.0,1953.0,13.0,917.0,Active,MLSListings,ML81924982,37.5387434,-121.9658015
+MLS Listing,Condo/Co-op,Fremont,CA,700000,2.0,2.0,Fremont,1040.0,1991.0,13.0,673.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41024415,37.5435742,-121.973808
+MLS Listing,Townhouse,Fremont,CA,1306535,3.0,3.5,Warm Springs,1891.0,2023.0,16.0,691.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41024265,37.5042267,-121.9643745
+MLS Listing,Single Family Residential,Fremont,CA,8999000,7.0,8.5,FREMONT,14390.0,2004.0,16.0,625.0,Active,MLSListings,ML81923968,37.5339267,-121.9136651
+MLS Listing,Condo/Co-op,Fremont,CA,879000,2.0,2.5,Glenmoor,1210.0,2015.0,17.0,726.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41024092,37.5561534,-122.0038249
+MLS Listing,Single Family Residential,Fremont,CA,1295000,4.0,2.0,Sundale District,1948.0,1961.0,18.0,665.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41023975,37.5404427,-121.9900749
+MLS Listing,Single Family Residential,Fremont,CA,1298000,4.0,2.0,FREMONT,1265.0,1960.0,19.0,1026.0,Active,MLSListings,ML81924271,37.5456407,-122.0206387
+MLS Listing,Condo/Co-op,Fremont,CA,564800,2.0,1.0,Fremont,732.0,1984.0,20.0,772.0,Active,SDMLS,230006574,37.5595391,-121.9693621
+MLS Listing,Single Family Residential,Fremont,CA,1197000,3.0,2.0,FREMONT,1201.0,1955.0,20.0,997.0,Active,MLSListings,ML81924194,37.5346937,-121.9705269
+MLS Listing,Single Family Residential,Fremont,CA,3200000,4.0,2.5,Mission,2807.0,1989.0,22.0,1140.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41022814,37.5186398,-121.9195408
+MLS Listing,Townhouse,Fremont,CA,1500000,4.0,3.5,FREMONT,1969.0,2013.0,23.0,762.0,Active,MLSListings,ML81923102,37.5601138,-122.0625064
+MLS Listing,Single Family Residential,Fremont,CA,3099000,5.0,3.5,Vintage Grove,3019.0,1997.0,24.0,1026.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41022238,37.5032924,-121.9184882
+MLS Listing,Single Family Residential,Union City,CA,2499000,4.0,3.0,UNION CITY,2273.0,1998.0,27.0,1099.0,Active,MLSListings,ML81923493,37.5844971,-122.0304039
+MLS Listing,Condo/Co-op,Fremont,CA,1690000,4.0,3.5,FREMONT,2493.0,2019.0,32.0,678.0,Active,MLSListings,ML81922246,37.5031954,-121.9345676
+MLS Listing,Townhouse,Fremont,CA,650000,2.0,1.5,La Casa Real,1120.0,1980.0,33.0,580.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41022651,37.568617,-121.965346
+MLS Listing,Condo/Co-op,Fremont,CA,555000,2.0,1.0,FREMONT,964.0,1972.0,33.0,576.0,Active,MLSListings,ML81922868,37.5540788,-122.0159212
+MLS Listing,Condo/Co-op,Fremont,CA,1249059,3.0,2.0,Warm Springs,1866.0,2023.0,37.0,669.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41022383,37.50468,-121.9452
+MLS Listing,Single Family Residential,Fremont,CA,1288898,4.0,2.0,FREMONT,1444.0,1971.0,38.0,893.0,Active,MLSListings,ML81922522,37.5854772,-122.0577143
+MLS Listing,Condo/Co-op,Fremont,CA,480000,2.0,1.0,Meadowbrook,934.0,1984.0,46.0,514.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41019998,37.56189,-122.0062444
+MLS Listing,Single Family Residential,Fremont,CA,899000,2.0,2.0,FREMONT,939.0,1940.0,47.0,957.0,Active,MLSListings,ML81920799,37.5740308,-121.9773181
+MLS Listing,Single Family Residential,Fremont,CA,1748000,4.0,3.5,Fremont,2045.0,2009.0,48.0,855.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41021430,37.4612066,-121.9182655
+MLS Listing,Condo/Co-op,Fremont,CA,441111,1.0,1.0,Downtown Fremont,730.0,1972.0,54.0,604.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41014904,37.542077,-121.973889
+MLS Listing,Condo/Co-op,Fremont,CA,643800,2.0,2.0,FREMONT,906.0,2022.0,54.0,711.0,Active,MLSListings,ML81918459,37.5279134,-121.9512306
+MLS Listing,Condo/Co-op,Fremont,CA,1800260,4.0,3.5,Warm Springs,2460.0,2023.0,59.0,732.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41020550,37.5023105,-121.9340228
+MLS Listing,Condo/Co-op,Fremont,CA,949000,2.0,2.0,Fremont,1515.0,2020.0,59.0,626.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41020504,37.4835612,-121.9273199
+MLS Listing,Condo/Co-op,Fremont,CA,797800,3.0,2.0,FREMONT,1082.0,2022.0,61.0,737.0,Active,MLSListings,ML81919838,37.5279134,-121.9512306
+MLS Listing,Condo/Co-op,Fremont,CA,607800,1.0,1.0,FREMONT,934.0,2022.0,62.0,651.0,Active,MLSListings,ML81917994,37.5279134,-121.9512306
+MLS Listing,Condo/Co-op,Fremont,CA,663800,2.0,2.0,FREMONT,906.0,2022.0,65.0,733.0,Active,MLSListings,ML81919829,37.5279134,-121.9512306
+MLS Listing,Condo/Co-op,Fremont,CA,478000,1.0,1.0,FREMONT,693.0,1987.0,66.0,690.0,Active,MLSListings,ML81919630,37.5581389,-121.971217
+MLS Listing,Condo/Co-op,Fremont,CA,783800,3.0,2.0,FREMONT,1118.0,2022.0,69.0,701.0,Active,MLSListings,ML81917966,37.5279134,-121.9512306
+MLS Listing,Condo/Co-op,Fremont,CA,598800,1.0,1.0,FREMONT,1017.0,2022.0,72.0,589.0,Active,MLSListings,ML81917962,37.5279134,-121.9512306
+MLS Listing,Condo/Co-op,Fremont,CA,1599000,3.0,3.5,Warm Springs,2465.0,2020.0,73.0,649.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41017949,37.5052778,-121.9356228
+MLS Listing,Condo/Co-op,Fremont,CA,525000,2.0,2.0,Park Fremont,933.0,1970.0,79.0,563.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41010332,37.5583904,-121.990087
+MLS Listing,Condo/Co-op,Fremont,CA,999800,3.0,2.0,FREMONT,1602.0,2022.0,80.0,624.0,Active,MLSListings,ML81918469,37.5279134,-121.9512306
+MLS Listing,Condo/Co-op,Fremont,CA,548800,1.0,1.0,FREMONT,865.0,2022.0,85.0,634.0,Active,MLSListings,ML81917996,37.5279134,-121.9512306
+MLS Listing,Condo/Co-op,Fremont,CA,864800,3.0,3.0,FREMONT,1366.0,2022.0,85.0,633.0,Active,MLSListings,ML81917971,37.5279134,-121.9512306
+MLS Listing,Single Family Residential,Fremont,CA,1700000,8.0,3.0,Irvington,2483.0,1963.0,114.0,685.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41016614,37.5216528,-121.9745424
+MLS Listing,Single Family Residential,Fremont,CA,6325000,5.0,5.5,Montclaire Ii,7440.0,2006.0,191.0,850.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41012316,37.5151206,-121.9143763
+MLS Listing,Single Family Residential,Fremont,CA,2600000,7.0,6.0,Cabrillo Area,4800.0,1986.0,290.0,542.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41001572,37.5526395,-122.0264517
+MLS Listing,Single Family Residential,Fremont,CA,1000000,2.0,1.0,Brookvale,1133.0,1934.0,342.0,883.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",40993222,37.5687625,-122.0276063
+New Construction Home,Condo/Co-op,Fremont,CA,1808630,4.0,3.5,Russell Square at Metro Crossing,2453.0,2023.0,13.0,737.0,Active,NewHomeSource.com,2426477,37.5020641,-121.933845
+New Construction Home,Multi-Family (2-4 Unit),Fremont,CA,1339357,3.0,3.0,Innovation - Matrix,2218.0,2023.0,34.0,604.0,Active,NewHomeSource.com,2412603,37.502884,-121.945668
+New Construction Home,Multi-Family (2-4 Unit),Fremont,CA,834880,2.0,2.0,Innovation - Chroma,1049.0,2023.0,34.0,796.0,Active,NewHomeSource.com,2412626,37.4985021,-121.9458001
+New Construction Home,Multi-Family (2-4 Unit),Fremont,CA,724880,2.0,2.0,Innovation - Chroma,977.0,2023.0,34.0,742.0,Active,NewHomeSource.com,2412628,37.4985021,-121.9458001
+New Construction Home,Multi-Family (2-4 Unit),Fremont,CA,787880,2.0,2.0,Innovation - Chroma,1014.0,2023.0,34.0,777.0,Active,NewHomeSource.com,2412625,37.4985021,-121.9458001
+New Construction Home,Multi-Family (2-4 Unit),Fremont,CA,529880,1.0,1.0,Innovation - Chroma,682.0,2023.0,34.0,777.0,Active,NewHomeSource.com,2412627,37.4985021,-121.9458001
+MLS Listing,Condo/Co-op,San Francisco,CA,1035000,1.0,2.0,San Francisco,1439.0,2004.0,6.0,719.0,Active,San Francisco MLS,423736501,37.7732324,-122.4089789
+MLS Listing,Condo/Co-op,San Francisco,CA,1099000,2.0,2.0,San Francisco,1206.0,1975.0,61.0,911.0,Active,San Francisco MLS,423723570,37.8043962,-122.4041505
+MLS Listing,Condo/Co-op,San Francisco,CA,724000,3.0,2.0,San Francisco,1050.0,1964.0,1.0,690.0,Active,MetroList,423738151,37.7842117,-122.4297811
+MLS Listing,Other,San Francisco,CA,775000,2.0,1.0,SAN FRANCISCO,1010.0,1900.0,1.0,767.0,Active,MLSListings,ML81926461,37.7495448,-122.4129227
+MLS Listing,Condo/Co-op,San Francisco,CA,1100000,2.0,2.0,San Francisco,1108.0,1906.0,1.0,993.0,Active,San Francisco MLS,423737088,37.762436,-122.443842
+MLS Listing,Condo/Co-op,San Francisco,CA,710000,2.0,2.0,Bayview,1063.0,2001.0,1.0,668.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41025781,37.7107619,-122.3903114
+MLS Listing,Condo/Co-op,San Francisco,CA,975000,1.0,1.0,San Francisco,920.0,2015.0,1.0,1060.0,Active,San Francisco MLS,423725990,37.7884937,-122.3918797
+MLS Listing,Condo/Co-op,San Francisco,CA,995000,2.0,1.0,San Francisco,950.0,1922.0,1.0,1047.0,Active,San Francisco MLS,423738101,37.8023368,-122.4262777
+MLS Listing,Single Family Residential,San Francisco,CA,5275000,4.0,4.0,San Francisco,3395.0,1910.0,1.0,1554.0,Active,San Francisco MLS,423734769,37.794714,-122.443188
+MLS Listing,Condo/Co-op,San Francisco,CA,1895000,2.0,2.0,San Francisco,1410.0,1929.0,1.0,1344.0,Active,San Francisco MLS,423738043,37.8043791,-122.4095186
+MLS Listing,Multi-Family (2-4 Unit),San Francisco,CA,1800000,5.0,3.0,San Francisco,2257.0,1926.0,1.0,798.0,Active,San Francisco MLS,423737590,37.7764009,-122.5055263
+MLS Listing,Condo/Co-op,San Francisco,CA,1350000,3.0,3.5,San Francisco,1260.0,1900.0,2.0,1071.0,Active,San Francisco MLS,423737668,37.7636439,-122.4270996
+MLS Listing,Multi-Family (2-4 Unit),San Francisco,CA,1399000,4.0,2.0,San Francisco,2360.0,1925.0,2.0,593.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41025692,37.7765659,-122.4839656
+MLS Listing,Condo/Co-op,San Francisco,CA,698000,1.0,1.0,SAN FRANCISCO,561.0,2019.0,2.0,1244.0,Active,MLSListings,ML81926360,37.7845263,-122.4180884
+MLS Listing,Single Family Residential,San Francisco,CA,1499000,4.0,2.5,San Francisco,1800.0,1964.0,2.0,833.0,Active,San Francisco MLS,423727154,37.7202351,-122.4110879
+MLS Listing,Condo/Co-op,San Francisco,CA,2595000,3.0,3.0,San Francisco,2219.0,1925.0,2.0,1169.0,Active,San Francisco MLS,423737776,37.8031734,-122.4111664
+MLS Listing,Condo/Co-op,San Francisco,CA,938000,1.0,1.0,SAN FRANCISCO,628.0,2018.0,2.0,1494.0,Active,MLSListings,ML81926350,37.7539098,-122.4211624
+MLS Listing,Condo/Co-op,San Francisco,CA,1695000,3.0,2.0,San Francisco,1298.0,1900.0,2.0,1306.0,Active,San Francisco MLS,423737548,37.798302,-122.43036
+MLS Listing,Single Family Residential,San Francisco,CA,849000,2.0,1.0,SAN FRANCISCO,1225.0,1925.0,2.0,693.0,Active,MLSListings,ML81926345,37.7144205,-122.4373457
+MLS Listing,Condo/Co-op,San Francisco,CA,825000,1.0,1.0,San Francisco,6570.0,1907.0,2.0,126.0,Active,San Francisco MLS,423736556,37.7877284,-122.4445343
+MLS Listing,Single Family Residential,San Francisco,CA,3700000,0.0,3.0,San Francisco,7743.0,1900.0,2.0,478.0,Active,San Francisco MLS,423736961,37.8018041,-122.4243051
+MLS Listing,Single Family Residential,San Francisco,CA,5865000,5.0,6.5,San Francisco,6290.0,2010.0,2.0,932.0,Active,San Francisco MLS,423737229,37.7357129,-122.4623591
+MLS Listing,Condo/Co-op,San Francisco,CA,3600000,2.0,4.0,San Francisco,3032.0,1892.0,2.0,1187.0,Active,San Francisco MLS,423731675,37.7842842,-122.391285
+MLS Listing,Multi-Family (2-4 Unit),San Francisco,CA,1895000,6.0,4.0,San Francisco,2420.0,1900.0,2.0,783.0,Active,San Francisco MLS,423736842,37.7806861,-122.4549226
+MLS Listing,Condo/Co-op,San Francisco,CA,1750000,3.0,2.0,San Francisco,1367.0,1906.0,2.0,1280.0,Active,San Francisco MLS,423728628,37.7962502,-122.4352343
+MLS Listing,Single Family Residential,San Francisco,CA,2495000,3.0,3.0,San Francisco,1893.0,1907.0,2.0,1318.0,Active,San Francisco MLS,423737388,37.7457137,-122.4230785
+MLS Listing,Condo/Co-op,San Francisco,CA,1349000,2.0,2.0,San Francisco,1053.0,2017.0,2.0,1281.0,Active,San Francisco MLS,423737728,37.7860549,-122.4402246
+MLS Listing,Condo/Co-op,San Francisco,CA,1475000,2.0,2.0,San Francisco,1430.0,1980.0,2.0,1031.0,Active,San Francisco MLS,423737479,37.771721,-122.4470025
+MLS Listing,Condo/Co-op,San Francisco,CA,1695000,3.0,2.0,San Francisco,1684.0,1900.0,2.0,1007.0,Active,San Francisco MLS,423737274,37.752244,-122.435741
+MLS Listing,Single Family Residential,San Francisco,CA,2298000,4.0,4.5,Parkside,2270.0,1947.0,2.0,1012.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41025613,37.7388713,-122.4813858
+MLS Listing,Single Family Residential,San Francisco,CA,1199000,4.0,3.0,San Francisco,1730.0,1923.0,2.0,693.0,Active,San Francisco MLS,423737669,37.7230023,-122.4569301
+MLS Listing,Townhouse,San Francisco,CA,1350000,3.0,2.5,San Francisco,2210.0,1979.0,2.0,611.0,Active,San Francisco MLS,423737775,37.7471397,-122.4401113
+MLS Listing,Single Family Residential,San Francisco,CA,1095000,2.0,1.0,San Francisco,1135.0,1923.0,2.0,965.0,Active,San Francisco MLS,423737762,37.7574035,-122.5055387
+MLS Listing,Condo/Co-op,San Francisco,CA,1695000,3.0,1.5,San Francisco,1400.0,1909.0,2.0,1211.0,Active,San Francisco MLS,423730132,37.7652279,-122.4536618
+MLS Listing,Single Family Residential,San Francisco,CA,1195000,3.0,2.0,San Francisco,1791.0,1912.0,2.0,667.0,Active,San Francisco MLS,423737763,37.7634195,-122.5027388
+MLS Listing,Condo/Co-op,San Francisco,CA,599000,1.0,1.0,San Francisco,749.0,1982.0,2.0,800.0,Active,San Francisco MLS,423736948,37.7811165,-122.4213309
+MLS Listing,Condo/Co-op,San Francisco,CA,770000,2.0,1.0,San Francisco,782.0,1914.0,2.0,985.0,Active,San Francisco MLS,423737480,37.7824791,-122.4381015
+MLS Listing,Single Family Residential,San Francisco,CA,2399000,4.0,3.5,San Francisco,2913.0,1931.0,2.0,824.0,Active,San Francisco MLS,423737773,37.7289575,-122.4467815
+MLS Listing,Condo/Co-op,San Francisco,CA,2995000,2.0,2.5,San Francisco,2000.0,1922.0,2.0,1498.0,Active,San Francisco MLS,422671738,37.794841,-122.435879
+MLS Listing,Condo/Co-op,San Francisco,CA,699000,1.0,1.0,San Francisco,790.0,1914.0,2.0,885.0,Active,San Francisco MLS,423736553,37.7874649,-122.4012865
+MLS Listing,Single Family Residential,San Francisco,CA,6800000,5.0,4.5,San Francisco,4390.0,1904.0,2.0,1549.0,Active,San Francisco MLS,423736592,37.7883103,-122.4513461
+MLS Listing,Single Family Residential,San Francisco,CA,1695000,3.0,2.0,San Francisco,3372.0,1931.0,2.0,503.0,Active,San Francisco MLS,423736423,37.7341015,-122.4754493
+MLS Listing,Single Family Residential,San Francisco,CA,850000,1.0,2.0,San Francisco,748.0,1934.0,2.0,1136.0,Active,San Francisco MLS,423737091,37.7312729,-122.4316939
+MLS Listing,Multi-Family (2-4 Unit),San Francisco,CA,2100000,5.0,4.0,SAN FRANCISCO,3646.0,1910.0,2.0,576.0,Active,MLSListings,ML81926269,37.7840623,-122.4626832
+MLS Listing,Condo/Co-op,San Francisco,CA,1049000,2.0,1.0,San Francisco,836.0,1912.0,2.0,1255.0,Active,San Francisco MLS,423732535,37.7992741,-122.4042775
+MLS Listing,Single Family Residential,San Francisco,CA,1795000,4.0,3.0,San Francisco,2973.0,1935.0,2.0,604.0,Active,San Francisco MLS,423737619,37.7314988,-122.4789427
+MLS Listing,Single Family Residential,San Francisco,CA,1299000,2.0,1.0,San Francisco,947.0,1909.0,2.0,1372.0,Active,San Francisco MLS,423737706,37.7332726,-122.447961
+MLS Listing,Condo/Co-op,San Francisco,CA,1275000,2.0,2.0,San Francisco,1430.0,1983.0,2.0,892.0,Active,San Francisco MLS,423737379,37.8037119,-122.4045338
+MLS Listing,Condo/Co-op,San Francisco,CA,2275000,3.0,2.5,San Francisco,1585.0,2019.0,2.0,1435.0,Active,San Francisco MLS,423733734,37.7626171,-122.4015564
+MLS Listing,Condo/Co-op,San Francisco,CA,598000,1.0,1.0,San Francisco,647.0,2000.0,2.0,924.0,Active,San Francisco MLS,423736529,37.7750924,-122.4088338
+MLS Listing,Condo/Co-op,San Francisco,CA,2185000,2.0,2.0,San Francisco,1498.0,2022.0,2.0,1459.0,Active,San Francisco MLS,423737693,37.7901615,-122.3913352
+MLS Listing,Condo/Co-op,San Francisco,CA,1995000,3.0,2.5,San Francisco,1748.0,1989.0,2.0,1141.0,Active,San Francisco MLS,423735492,37.7648838,-122.4362971
+MLS Listing,Condo/Co-op,San Francisco,CA,995000,3.0,3.0,San Francisco,1015.0,1909.0,2.0,980.0,Active,San Francisco MLS,423736582,37.7743864,-122.4334088
+MLS Listing,Multi-Family (2-4 Unit),San Francisco,CA,1595000,4.0,2.5,San Francisco,2800.0,1979.0,2.0,570.0,Active,San Francisco MLS,423720251,37.7449345,-122.4175145
+MLS Listing,Single Family Residential,San Francisco,CA,880000,3.0,2.0,San Francisco,1050.0,1951.0,2.0,838.0,Active,San Francisco MLS,423735408,37.723217,-122.4096277
+MLS Listing,Single Family Residential,San Francisco,CA,1899000,5.0,4.0,San Francisco,2287.0,1951.0,2.0,830.0,Active,San Francisco MLS,423735138,37.7315853,-122.4915888
+MLS Listing,Single Family Residential,San Francisco,CA,1495000,3.0,1.0,San Francisco,1435.0,1907.0,2.0,1042.0,Active,San Francisco MLS,423715300,37.7448887,-122.4121941
+MLS Listing,Single Family Residential,San Francisco,CA,799000,2.0,1.0,San Francisco,933.0,1900.0,2.0,856.0,Active,San Francisco MLS,423737627,37.7539017,-122.406132
+MLS Listing,Condo/Co-op,San Francisco,CA,699000,1.0,1.0,San Francisco,657.0,1895.0,2.0,1064.0,Active,San Francisco MLS,423737050,37.7816353,-122.4355543
+MLS Listing,Condo/Co-op,San Francisco,CA,1995000,2.0,2.0,San Francisco,1680.0,1900.0,3.0,1188.0,Active,San Francisco MLS,423724416,37.792758,-122.4315129
+MLS Listing,Single Family Residential,San Francisco,CA,1195000,3.0,2.0,San Francisco,1450.0,1908.0,3.0,824.0,Active,San Francisco MLS,423737626,37.7479927,-122.4052138
+MLS Listing,Condo/Co-op,San Francisco,CA,1000000,1.0,1.0,Heights,868.0,2008.0,3.0,1152.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41025543,37.7737829,-122.4218176
+MLS Listing,Single Family Residential,San Francisco,CA,5295000,3.0,3.5,San Francisco,2970.0,1910.0,3.0,1783.0,Active,San Francisco MLS,423731586,37.7970332,-122.4448881
+MLS Listing,Single Family Residential,San Francisco,CA,2599950,5.0,5.0,SAN FRANCISCO,3292.0,1925.0,3.0,790.0,Active,MLSListings,ML81926217,37.7641914,-122.4990011
+MLS Listing,Single Family Residential,San Francisco,CA,1795000,4.0,3.0,San Francisco,2135.0,1972.0,3.0,841.0,Active,San Francisco MLS,423737369,37.7189475,-122.4629009
+MLS Listing,Condo/Co-op,San Francisco,CA,1795000,2.0,2.0,San Francisco,1103.0,2000.0,3.0,1627.0,Active,San Francisco MLS,423737259,37.782856,-122.390344
+MLS Listing,Condo/Co-op,San Francisco,CA,2695000,3.0,3.0,San Francisco,2251.0,1983.0,3.0,1197.0,Active,San Francisco MLS,423736391,37.798301,-122.3983939
+MLS Listing,Single Family Residential,San Francisco,CA,1195000,2.0,1.0,San Francisco,1036.0,1934.0,3.0,1153.0,Active,San Francisco MLS,423737529,37.7123086,-122.3980782
+MLS Listing,Condo/Co-op,San Francisco,CA,395000,0.0,1.0,San Francisco,520.0,1930.0,3.0,760.0,Active,BAREIS,423736934,37.7852037,-122.4151808
+MLS Listing,Single Family Residential,San Francisco,CA,1038000,3.0,2.0,San Francisco,1530.0,1928.0,3.0,678.0,Active,San Francisco MLS,423737188,37.7093708,-122.4585002
+MLS Listing,Condo/Co-op,San Francisco,CA,1499000,2.0,2.0,San Francisco,1315.0,2001.0,3.0,1140.0,Active,San Francisco MLS,423737273,37.7721919,-122.4315286
+MLS Listing,Multi-Family (2-4 Unit),San Francisco,CA,2795000,3.0,1.0,San Francisco,3500.0,1904.0,3.0,799.0,Active,San Francisco MLS,423737298,37.7490565,-122.424465
+MLS Listing,Condo/Co-op,San Francisco,CA,950000,2.0,2.0,San Francisco,1160.0,2002.0,3.0,819.0,Active,San Francisco MLS,423737387,37.7715915,-122.4185191
+MLS Listing,Single Family Residential,San Francisco,CA,1095000,4.0,4.0,San Francisco,3566.0,1907.0,3.0,307.0,Active,San Francisco MLS,423737481,37.7304506,-122.4459994
+MLS Listing,Multi-Family (2-4 Unit),San Francisco,CA,3495000,2.0,3.0,San Francisco,3102.0,1924.0,3.0,1127.0,Active,San Francisco MLS,423725043,37.7745811,-122.4088944
+MLS Listing,Condo/Co-op,San Francisco,CA,1849000,2.0,2.0,San Francisco,1326.0,2016.0,3.0,1394.0,Active,San Francisco MLS,423731921,37.7717748,-122.3940731
+MLS Listing,Condo/Co-op,San Francisco,CA,1225000,3.0,2.0,San Francisco,1285.0,1908.0,3.0,953.0,Active,San Francisco MLS,423736651,37.7975671,-122.4183567
+MLS Listing,Single Family Residential,San Francisco,CA,1298000,2.0,2.5,San Francisco,1600.0,1913.0,3.0,811.0,Active,San Francisco MLS,423730466,37.7430736,-122.4910205
+MLS Listing,Single Family Residential,San Francisco,CA,2895000,4.0,3.5,San Francisco,2930.0,1900.0,3.0,988.0,Active,San Francisco MLS,423737119,37.786423,-122.436301
+MLS Listing,Single Family Residential,San Francisco,CA,8995000,5.0,3.5,San Francisco,4990.0,1899.0,3.0,1803.0,Active,San Francisco MLS,423737055,37.7965469,-122.4419338
+MLS Listing,Condo/Co-op,San Francisco,CA,1679000,2.0,2.0,San Francisco,1319.0,2018.0,3.0,1273.0,Active,San Francisco MLS,423733710,37.775529,-122.390239
+MLS Listing,Condo/Co-op,San Francisco,CA,1649000,3.0,2.0,San Francisco,1493.0,1908.0,3.0,1104.0,Active,San Francisco MLS,423736721,37.7931758,-122.4204786
+MLS Listing,Single Family Residential,San Francisco,CA,1695000,4.0,2.0,San Francisco,2265.0,1927.0,3.0,748.0,Active,San Francisco MLS,423736270,37.7423036,-122.4699338
+MLS Listing,Single Family Residential,San Francisco,CA,1395000,4.0,2.5,San Francisco,2417.0,1971.0,3.0,577.0,Active,San Francisco MLS,423735579,37.7375904,-122.4826129
+MLS Listing,Single Family Residential,San Francisco,CA,2345000,4.0,3.5,San Francisco,2236.0,1996.0,3.0,1049.0,Active,San Francisco MLS,423737370,37.7443996,-122.4179351
+MLS Listing,Condo/Co-op,San Francisco,CA,1895000,2.0,2.0,San Francisco,1500.0,1926.0,3.0,1263.0,Active,San Francisco MLS,423734968,37.7968419,-122.4317854
+MLS Listing,Condo/Co-op,San Francisco,CA,1695000,3.0,2.5,San Francisco,1613.0,2015.0,3.0,1051.0,Active,San Francisco MLS,423726348,37.7581163,-122.4137428
+MLS Listing,Condo/Co-op,San Francisco,CA,850000,4.0,3.0,SAN FRANCISCO,1726.0,1963.0,3.0,492.0,Active,MLSListings,ML81925466,37.7099233,-122.4135769
+MLS Listing,Condo/Co-op,San Francisco,CA,1695000,3.0,2.0,San Francisco,1255.0,1900.0,3.0,1351.0,Active,San Francisco MLS,423737353,37.75481,-122.433175
+MLS Listing,Condo/Co-op,San Francisco,CA,3250000,3.0,2.0,San Francisco,1630.0,2008.0,3.0,1994.0,Active,San Francisco MLS,423730869,37.7895974,-122.3911965
+MLS Listing,Condo/Co-op,San Francisco,CA,729000,2.0,2.0,San Francisco,1120.0,2007.0,3.0,651.0,Active,San Francisco MLS,423729730,37.711115,-122.388595
+MLS Listing,Condo/Co-op,San Francisco,CA,1049000,2.0,2.0,San Francisco,1153.0,2007.0,3.0,910.0,Active,San Francisco MLS,423734231,37.7812447,-122.4230549
+MLS Listing,Multi-Family (2-4 Unit),San Francisco,CA,1495000,7.0,5.0,San Francisco,3600.0,1906.0,3.0,415.0,Active,San Francisco MLS,423737107,37.7659162,-122.454711
+MLS Listing,Condo/Co-op,San Francisco,CA,1118000,1.0,1.0,San Francisco,873.0,2016.0,3.0,1281.0,Active,San Francisco MLS,423734767,37.7886733,-122.3914178
+MLS Listing,Condo/Co-op,San Francisco,CA,1595000,1.0,2.0,San Francisco,1349.0,1930.0,3.0,1182.0,Active,San Francisco MLS,423736397,37.799341,-122.415236
+MLS Listing,Single Family Residential,San Francisco,CA,1350000,3.0,3.0,San Francisco,1879.0,1954.0,3.0,718.0,Active,San Francisco MLS,423736347,37.7349599,-122.3952901
+MLS Listing,Single Family Residential,San Francisco,CA,799000,3.0,2.0,San Francisco,1469.0,1923.0,3.0,544.0,Active,San Francisco MLS,423735434,37.7123474,-122.4365171
+MLS Listing,Single Family Residential,San Francisco,CA,1995000,3.0,3.0,San Francisco,2182.0,1925.0,3.0,914.0,Active,San Francisco MLS,423736877,37.7576534,-122.5059359
+MLS Listing,Single Family Residential,San Francisco,CA,2099000,5.0,3.0,San Francisco,2304.0,1928.0,4.0,911.0,Active,San Francisco MLS,423736786,37.7555445,-122.4816954
+MLS Listing,Multi-Family (2-4 Unit),San Francisco,CA,1395000,4.0,3.0,San Francisco,2740.0,1945.0,4.0,509.0,Active,San Francisco MLS,423737244,37.7517006,-122.4759173
+MLS Listing,Single Family Residential,San Francisco,CA,875000,4.0,3.0,San Francisco,1400.0,1914.0,4.0,625.0,Active,San Francisco MLS,423737179,37.7084455,-122.4598543
+MLS Listing,Condo/Co-op,San Francisco,CA,795000,1.0,1.0,Twin Peaks,840.0,1966.0,4.0,946.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41025369,37.7849434,-122.4242824
+MLS Listing,Single Family Residential,San Francisco,CA,925925,4.0,2.0,San Francisco,1320.0,1908.0,4.0,701.0,Active,San Francisco MLS,423728729,37.7274554,-122.4243505
+MLS Listing,Single Family Residential,San Francisco,CA,1795000,4.0,2.5,San Francisco,1547.0,1950.0,4.0,1160.0,Active,San Francisco MLS,423736691,37.7409371,-122.4118733
+MLS Listing,Single Family Residential,San Francisco,CA,1495000,3.0,2.0,San Francisco,1800.0,1941.0,4.0,831.0,Active,San Francisco MLS,423737120,37.7405254,-122.4875541
+MLS Listing,Single Family Residential,San Francisco,CA,2780000,4.0,3.0,San Francisco,2702.0,1921.0,4.0,1029.0,Active,San Francisco MLS,423737146,37.7262152,-122.4578921
+MLS Listing,Multi-Family (2-4 Unit),San Francisco,CA,2499900,4.0,4.0,San Francisco,3220.0,1922.0,4.0,776.0,Active,San Francisco MLS,423737045,37.782477,-122.4498821
+MLS Listing,Condo/Co-op,San Francisco,CA,980000,2.0,2.0,San Francisco,1197.0,2004.0,4.0,819.0,Active,San Francisco MLS,423737094,37.7781222,-122.3932903
+MLS Listing,Multi-Family (2-4 Unit),San Francisco,CA,3595000,7.0,5.0,San Francisco,2756.0,1974.0,4.0,1304.0,Active,San Francisco MLS,423735137,37.7625187,-122.4429182
+MLS Listing,Condo/Co-op,San Francisco,CA,688000,1.0,1.0,SAN FRANCISCO,689.0,1963.0,4.0,999.0,Active,MLSListings,ML81925979,37.748677,-122.4443131
+MLS Listing,Condo/Co-op,San Francisco,CA,1795000,2.0,2.0,San Francisco,1399.0,2014.0,4.0,1283.0,Active,San Francisco MLS,423735674,37.7947619,-122.4223828
+MLS Listing,Condo/Co-op,San Francisco,CA,839000,1.0,1.0,San Francisco,815.0,2008.0,4.0,1029.0,Active,San Francisco MLS,422683892,37.7891307,-122.3910195
+MLS Listing,Condo/Co-op,San Francisco,CA,1025000,1.0,2.0,San Francisco,1266.0,1999.0,4.0,810.0,Active,BAREIS,423735673,37.764191,-122.3939643
+MLS Listing,Condo/Co-op,San Francisco,CA,1149000,2.0,2.0,San Francisco,1208.0,1993.0,4.0,951.0,Active,San Francisco MLS,423736989,37.8008705,-122.4120135
+MLS Listing,Single Family Residential,San Francisco,CA,1099000,2.0,2.0,San Francisco,1399.0,1937.0,4.0,786.0,Active,San Francisco MLS,423736921,37.7772998,-122.4243616
+MLS Listing,Single Family Residential,San Francisco,CA,999800,5.0,2.0,SAN FRANCISCO,1662.0,1927.0,5.0,602.0,Active,MLSListings,ML81925934,37.7093355,-122.4632436
+MLS Listing,Condo/Co-op,San Francisco,CA,1498000,3.0,2.0,SAN FRANCISCO,1445.0,2008.0,5.0,1037.0,Active,MLSListings,ML81925567,37.7653368,-122.4748539
+MLS Listing,Condo/Co-op,San Francisco,CA,4955000,2.0,2.5,San Francisco,1985.0,2018.0,5.0,2496.0,Active,San Francisco MLS,423736905,37.7896113,-122.3954593
+MLS Listing,Single Family Residential,San Francisco,CA,1288000,2.0,1.0,SAN FRANCISCO,1024.0,1950.0,5.0,1258.0,Active,MLSListings,ML81925891,37.7525184,-122.5030341
+MLS Listing,Condo/Co-op,San Francisco,CA,1048000,2.0,2.0,San Francisco,1165.0,1984.0,5.0,900.0,Active,San Francisco MLS,423736876,37.7913947,-122.4167438
+MLS Listing,Condo/Co-op,San Francisco,CA,650000,1.0,1.0,San Francisco,649.0,1978.0,5.0,1002.0,Active,San Francisco MLS,423736799,37.7909986,-122.4137649
+MLS Listing,Single Family Residential,San Francisco,CA,1198000,2.0,1.0,SAN FRANCISCO,1340.0,1930.0,5.0,894.0,Active,MLSListings,ML81925479,37.7580773,-122.4791528
+MLS Listing,Condo/Co-op,San Francisco,CA,382757,1.0,1.0,San Francisco,684.0,1975.0,5.0,560.0,Active,San Francisco MLS,423736495,37.741289,-122.4369339
+MLS Listing,Condo/Co-op,San Francisco,CA,1550000,2.0,2.0,San Francisco,1351.0,2012.0,5.0,1147.0,Active,San Francisco MLS,423736749,37.7718864,-122.3885728
+MLS Listing,Single Family Residential,San Francisco,CA,2250000,4.0,2.0,San Francisco,2380.0,1908.0,6.0,945.0,Active,San Francisco MLS,423736636,37.7634425,-122.4259144
+MLS Listing,Condo/Co-op,San Francisco,CA,595000,1.0,1.0,San Francisco,719.0,1963.0,6.0,828.0,Active,San Francisco MLS,423721486,37.748677,-122.4443131
+MLS Listing,Single Family Residential,San Francisco,CA,1228000,4.0,4.0,San Francisco,1589.0,1924.0,6.0,773.0,Active,San Francisco MLS,423736718,37.732096,-122.4482995
+MLS Listing,Condo/Co-op,San Francisco,CA,5288000,6.0,5.5,San Francisco,4040.0,1914.0,6.0,1309.0,Active,San Francisco MLS,423736487,37.7861439,-122.4579251
+MLS Listing,Condo/Co-op,San Francisco,CA,789000,1.0,1.0,San Francisco,714.0,2006.0,6.0,1105.0,Active,San Francisco MLS,423736547,37.786127,-122.3942141
+MLS Listing,Single Family Residential,San Francisco,CA,3999000,4.0,4.5,San Francisco,3067.0,1937.0,6.0,1304.0,Active,San Francisco MLS,423736477,37.7795816,-122.4552826
+MLS Listing,Single Family Residential,San Francisco,CA,1500000,3.0,1.0,San Francisco,1064.0,1955.0,6.0,1410.0,Active,BAREIS,423724406,37.720641,-122.4107671
+MLS Listing,Condo/Co-op,San Francisco,CA,749000,1.0,1.0,San Francisco,671.0,1964.0,7.0,1116.0,Active,San Francisco MLS,423733661,37.7569137,-122.4626023
+MLS Listing,Multi-Family (2-4 Unit),San Francisco,CA,1395000,5.0,3.0,San Francisco,3217.0,1900.0,7.0,434.0,Active,San Francisco MLS,423735858,37.7649748,-122.4106897
+MLS Listing,Condo/Co-op,San Francisco,CA,865000,1.0,1.0,San Francisco,4854.0,1960.0,7.0,178.0,Active,San Francisco MLS,423736305,37.7555856,-122.43211
+MLS Listing,Condo/Co-op,San Francisco,CA,898000,1.0,1.0,San Francisco,740.0,1960.0,7.0,1214.0,Active,San Francisco MLS,423729714,37.7909177,-122.4295157
+MLS Listing,Single Family Residential,San Francisco,CA,995000,2.0,1.0,San Francisco,1315.0,1936.0,8.0,757.0,Active,San Francisco MLS,423736405,37.7281,-122.4359414
+MLS Listing,Single Family Residential,Daly City,CA,899000,2.0,2.0,DALY CITY,850.0,1924.0,8.0,1058.0,Active,MLSListings,ML81925663,37.7080865,-122.4607669
+MLS Listing,Single Family Residential,San Francisco,CA,2168000,4.0,3.5,San Francisco,2435.0,1980.0,8.0,890.0,Active,San Francisco MLS,423736085,37.7388257,-122.4393265
+MLS Listing,Multi-Family (5+ Unit),San Francisco,CA,1895000,1.0,1.0,San Francisco,6600.0,1910.0,8.0,287.0,Active,San Francisco MLS,423736014,37.7939677,-122.4183933
+MLS Listing,Single Family Residential,San Francisco,CA,2950000,4.0,3.5,San Francisco,1785.0,1925.0,8.0,1653.0,Active,BAREIS,423734293,37.8002772,-122.4461269
+MLS Listing,Condo/Co-op,San Francisco,CA,495000,0.0,1.0,San Francisco,592.0,1972.0,8.0,836.0,Active,San Francisco MLS,423732305,37.7461571,-122.4420357
+MLS Listing,Single Family Residential,San Francisco,CA,1399000,3.0,2.0,San Francisco,2219.0,1939.0,9.0,630.0,Active,San Francisco MLS,423736267,37.7287574,-122.4467979
+MLS Listing,Condo/Co-op,San Francisco,CA,1995000,2.0,2.0,San Francisco,1317.0,2008.0,9.0,1515.0,Active,San Francisco MLS,423736336,37.7895974,-122.3911965
+MLS Listing,Condo/Co-op,San Francisco,CA,750000,1.0,1.0,San Francisco,670.0,2006.0,9.0,1119.0,Active,San Francisco MLS,423736325,37.7791203,-122.3971915
+MLS Listing,Condo/Co-op,San Francisco,CA,1399000,2.0,2.0,San Francisco,1415.0,2002.0,9.0,989.0,Active,San Francisco MLS,423728335,37.7760615,-122.4100481
+MLS Listing,Condo/Co-op,San Francisco,CA,1200000,2.0,2.0,San Francisco,1336.0,1993.0,9.0,898.0,Active,San Francisco MLS,423726774,37.7869544,-122.4241886
+MLS Listing,Condo/Co-op,San Francisco,CA,749000,2.0,1.5,San Francisco,980.0,1997.0,9.0,764.0,Active,San Francisco MLS,423736199,37.7711221,-122.422318
+MLS Listing,Condo/Co-op,San Francisco,CA,1850000,2.0,2.0,San Francisco,1317.0,2008.0,9.0,1405.0,Active,San Francisco MLS,423736312,37.7895974,-122.3911965
+MLS Listing,Condo/Co-op,San Francisco,CA,1098000,2.0,1.5,San Francisco,1050.0,1989.0,9.0,1046.0,Active,San Francisco MLS,423730625,37.7820691,-122.4382808
+MLS Listing,Single Family Residential,San Francisco,CA,1099000,2.0,1.0,San Francisco,1175.0,1945.0,9.0,935.0,Active,San Francisco MLS,423730088,37.7210162,-122.4678541
+MLS Listing,Condo/Co-op,San Francisco,CA,855000,0.0,1.0,San Francisco,4854.0,1960.0,9.0,176.0,Active,San Francisco MLS,423736238,37.7555856,-122.43211
+MLS Listing,Condo/Co-op,San Francisco,CA,550000,1.0,1.0,San Francisco,496.0,1991.0,9.0,1109.0,Active,San Francisco MLS,423736000,37.7874798,-122.3905769
+MLS Listing,Other,San Francisco,CA,1995000,3.0,2.5,SAN FRANCISCO,2320.0,1907.0,9.0,860.0,Active,MLSListings,ML81925591,37.7356654,-122.4205124
+MLS Listing,Multi-Family (2-4 Unit),San Francisco,CA,995000,4.0,4.0,San Francisco,2750.0,1900.0,9.0,362.0,Active,San Francisco MLS,423736138,37.7579401,-122.4338431
+MLS Listing,Condo/Co-op,San Francisco,CA,959000,2.0,2.0,SAN FRANCISCO,1089.0,2001.0,9.0,881.0,Active,MLSListings,ML81925569,37.7747537,-122.4014635
+MLS Listing,Condo/Co-op,San Francisco,CA,1268000,2.0,1.0,San Francisco,1242.0,1900.0,9.0,1021.0,Active,San Francisco MLS,423736139,37.7652342,-122.4300355
+MLS Listing,Condo/Co-op,San Francisco,CA,1395000,3.0,2.0,San Francisco,1620.0,1909.0,9.0,861.0,Active,San Francisco MLS,423735600,37.7756623,-122.4316994
+MLS Listing,Condo/Co-op,San Francisco,CA,1595000,3.0,2.0,San Francisco,1575.0,1907.0,9.0,1013.0,Active,San Francisco MLS,423724331,37.767879,-122.448955
+MLS Listing,Condo/Co-op,San Francisco,CA,2680000,4.0,5.0,San Francisco,2660.0,1904.0,9.0,1008.0,Active,San Francisco MLS,423734923,37.7734826,-122.4327831
+MLS Listing,Single Family Residential,San Francisco,CA,2795000,4.0,3.0,San Francisco,2100.0,1921.0,9.0,1331.0,Active,San Francisco MLS,423731714,37.7822587,-122.453478
+MLS Listing,Condo/Co-op,San Francisco,CA,849000,1.0,1.5,San Francisco,898.0,2001.0,9.0,945.0,Active,San Francisco MLS,423736100,37.7810305,-122.4021953
+MLS Listing,Condo/Co-op,San Francisco,CA,1445000,2.0,1.5,San Francisco,1468.0,1922.0,9.0,984.0,Active,San Francisco MLS,423735970,37.7747042,-122.449035
+MLS Listing,Condo/Co-op,San Francisco,CA,2298000,2.0,2.5,San Francisco,1544.0,2019.0,9.0,1488.0,Active,San Francisco MLS,423717124,37.7877451,-122.3945599
+MLS Listing,Single Family Residential,San Francisco,CA,988000,3.0,1.0,San Francisco,1757.0,1931.0,9.0,562.0,Active,San Francisco MLS,423734305,37.7395048,-122.4580248
+MLS Listing,Single Family Residential,San Francisco,CA,5500000,4.0,4.5,San Francisco,3295.0,2023.0,9.0,1669.0,Active,San Francisco MLS,423735101,37.7637975,-122.4427206
+MLS Listing,Single Family Residential,San Francisco,CA,1100000,3.0,2.0,San Francisco,1423.0,1972.0,9.0,773.0,Active,San Francisco MLS,423734962,37.7244929,-122.4134773
+MLS Listing,Single Family Residential,San Francisco,CA,1268000,5.0,4.0,San Francisco,1705.0,1946.0,9.0,744.0,Active,San Francisco MLS,423735830,37.7176159,-122.430124
+MLS Listing,Condo/Co-op,San Francisco,CA,1750000,3.0,2.0,San Francisco,1425.0,1900.0,9.0,1228.0,Active,San Francisco MLS,423736041,37.758057,-122.4253033
+MLS Listing,Condo/Co-op,San Francisco,CA,1965000,2.0,2.0,San Francisco,1266.0,2022.0,9.0,1552.0,Active,San Francisco MLS,423736038,37.7901615,-122.3913352
+MLS Listing,Condo/Co-op,San Francisco,CA,1195000,3.0,2.0,San Francisco,1334.0,1907.0,9.0,896.0,Active,San Francisco MLS,423735689,37.765818,-122.430224
+MLS Listing,Condo/Co-op,San Francisco,CA,799000,1.0,1.5,San Francisco,862.0,1992.0,9.0,927.0,Active,San Francisco MLS,423735546,37.779541,-122.4061763
+MLS Listing,Condo/Co-op,San Francisco,CA,749995,1.0,1.0,SAN FRANCISCO,664.0,2009.0,9.0,1130.0,Active,MLSListings,ML81925486,37.773892,-122.396231
+MLS Listing,Condo/Co-op,San Francisco,CA,326584,0.0,1.0,San Francisco,480.0,1975.0,9.0,680.0,Active,San Francisco MLS,423735472,37.7404472,-122.4374787
+MLS Listing,Condo/Co-op,San Francisco,CA,649000,1.0,1.0,San Francisco,667.0,1961.0,9.0,973.0,Active,San Francisco MLS,423735857,37.804693,-122.418709
+MLS Listing,Single Family Residential,San Francisco,CA,2295000,4.0,3.0,San Francisco,2218.0,1922.0,9.0,1035.0,Active,San Francisco MLS,423732115,37.7728469,-122.5022438
+MLS Listing,Single Family Residential,San Francisco,CA,1195000,3.0,2.0,San Francisco,1195.0,1954.0,9.0,1000.0,Active,San Francisco MLS,423729903,37.7452628,-122.506632
+MLS Listing,Condo/Co-op,San Francisco,CA,895000,1.0,1.0,San Francisco,832.0,2004.0,9.0,1076.0,Active,San Francisco MLS,423734946,37.7776622,-122.3934514
+MLS Listing,Condo/Co-op,San Francisco,CA,890000,1.0,1.0,San Francisco,610.0,1970.0,9.0,1459.0,Active,San Francisco MLS,423735551,37.7903955,-122.4286044
+MLS Listing,Condo/Co-op,San Francisco,CA,1149000,1.0,1.5,San Francisco,988.0,2009.0,10.0,1163.0,Active,San Francisco MLS,423735511,37.8006699,-122.417972
+MLS Listing,Condo/Co-op,San Francisco,CA,1825000,2.0,2.0,San Francisco,1323.0,2008.0,10.0,1379.0,Active,San Francisco MLS,423734987,37.7895974,-122.3911965
+MLS Listing,Multi-Family (2-4 Unit),San Francisco,CA,1095000,4.0,3.0,San Francisco,1525.0,1904.0,10.0,718.0,Active,San Francisco MLS,423733941,37.7521728,-122.4132118
+MLS Listing,Condo/Co-op,San Francisco,CA,819000,2.0,2.0,San Francisco,998.0,2020.0,10.0,821.0,Active,San Francisco MLS,423735718,37.7789926,-122.4102695
+MLS Listing,Condo/Co-op,San Francisco,CA,599000,1.0,1.0,San Francisco,690.0,2020.0,10.0,868.0,Active,San Francisco MLS,423735797,37.7789926,-122.4102695
+MLS Listing,Condo/Co-op,San Francisco,CA,875000,3.0,2.0,SAN FRANCISCO,994.0,1911.0,10.0,880.0,Active,MLSListings,ML81922548,37.7871747,-122.419362
+MLS Listing,Single Family Residential,San Francisco,CA,799000,3.0,2.0,SAN FRANCISCO,875.0,1905.0,10.0,913.0,Active,MLSListings,ML81925414,37.7185697,-122.4348355
+MLS Listing,Single Family Residential,San Francisco,CA,688000,3.0,2.0,San Francisco,1485.0,1912.0,10.0,463.0,Active,San Francisco MLS,423735435,37.7243078,-122.4277692
+MLS Listing,Condo/Co-op,San Francisco,CA,1295000,2.0,2.0,San Francisco,1595.0,1979.0,10.0,812.0,Active,San Francisco MLS,423734914,37.736231,-122.474745
+MLS Listing,Single Family Residential,San Francisco,CA,1495000,5.0,3.0,San Francisco,2202.0,1964.0,10.0,679.0,Active,San Francisco MLS,423735232,37.7171941,-122.4391265
+MLS Listing,Condo/Co-op,San Francisco,CA,895000,1.0,1.0,San Francisco,706.0,2016.0,10.0,1268.0,Active,San Francisco MLS,423725417,37.7768993,-122.4240297
+MLS Listing,Single Family Residential,San Francisco,CA,1998000,3.0,2.0,San Francisco,1350.0,1910.0,10.0,1480.0,Active,San Francisco MLS,423734691,37.7448269,-122.4315491
+MLS Listing,Single Family Residential,San Francisco,CA,7500000,4.0,4.5,San Francisco,4660.0,1938.0,10.0,1609.0,Active,San Francisco MLS,423731920,37.7952521,-122.4314687
+MLS Listing,Single Family Residential,San Francisco,CA,1395000,2.0,1.0,San Francisco,1550.0,1927.0,10.0,900.0,Active,San Francisco MLS,423735055,37.758091,-122.5070769
+MLS Listing,Condo/Co-op,San Francisco,CA,1050000,2.0,1.0,San Francisco,834.0,1909.0,10.0,1259.0,Active,San Francisco MLS,423731652,37.764036,-122.4548845
+MLS Listing,Single Family Residential,San Francisco,CA,5600000,4.0,4.0,San Francisco,3285.0,1900.0,10.0,1705.0,Active,San Francisco MLS,423731229,37.7633334,-122.4387782
+MLS Listing,Condo/Co-op,San Francisco,CA,2080000,5.0,3.0,San Francisco,2572.0,2010.0,10.0,809.0,Active,San Francisco MLS,423735680,37.759799,-122.469478
+MLS Listing,Single Family Residential,San Francisco,CA,2195000,4.0,3.5,San Francisco,2325.0,1912.0,10.0,944.0,Active,San Francisco MLS,423735198,37.7623473,-122.4063975
+MLS Listing,Single Family Residential,San Francisco,CA,5495000,4.0,3.5,San Francisco,3576.0,1933.0,10.0,1537.0,Active,San Francisco MLS,423728770,37.7952652,-122.4320153
+MLS Listing,Condo/Co-op,San Francisco,CA,825000,3.0,2.0,San Francisco,1100.0,1963.0,10.0,750.0,Active,San Francisco MLS,423734755,37.7841279,-122.4273921
+MLS Listing,Single Family Residential,San Francisco,CA,995000,3.0,2.0,San Francisco,1248.0,1909.0,10.0,797.0,Active,San Francisco MLS,423735336,37.7328924,-122.3927123
+MLS Listing,Condo/Co-op,San Francisco,CA,1700000,3.0,2.0,San Francisco,1821.0,1939.0,10.0,934.0,Active,San Francisco MLS,423726865,37.791557,-122.425386
+MLS Listing,Condo/Co-op,San Francisco,CA,1295000,3.0,2.0,San Francisco,1571.0,1902.0,10.0,824.0,Active,BAREIS,423733141,37.7606204,-122.394276
+MLS Listing,Single Family Residential,San Francisco,CA,1295000,4.0,1.5,San Francisco,1707.0,1956.0,11.0,759.0,Active,San Francisco MLS,423735560,37.7531819,-122.475593
+MLS Listing,Multi-Family (2-4 Unit),San Francisco,CA,1595000,7.0,4.0,San Francisco,3025.0,1957.0,11.0,527.0,Active,San Francisco MLS,423735431,37.7312377,-122.4519823
+MLS Listing,Single Family Residential,San Francisco,CA,1378000,2.0,1.5,San Francisco,1516.0,1921.0,11.0,909.0,Active,San Francisco MLS,423731144,37.7650121,-122.4807115
+MLS Listing,Single Family Residential,San Francisco,CA,1295000,2.0,1.0,San Francisco,1295.0,1941.0,11.0,1000.0,Active,San Francisco MLS,423731809,37.730862,-122.4325775
+MLS Listing,Condo/Co-op,San Francisco,CA,1292000,2.0,2.0,San Francisco,1067.0,2022.0,11.0,1211.0,Active,San Francisco MLS,423735521,37.775436,-122.4130273
+MLS Listing,Townhouse,San Francisco,CA,949000,2.0,2.0,San Francisco,1314.0,2014.0,11.0,722.0,Active,San Francisco MLS,423734290,37.73987,-122.3891341
+MLS Listing,Single Family Residential,San Francisco,CA,1495000,2.0,1.0,San Francisco,1300.0,1941.0,11.0,1150.0,Active,San Francisco MLS,423734966,37.739174,-122.4479912
+MLS Listing,Multi-Family (2-4 Unit),San Francisco,CA,1950000,7.0,2.0,San Francisco,2709.0,1905.0,11.0,720.0,Active,MetroList,423735432,37.745583,-122.426143
+MLS Listing,Single Family Residential,San Francisco,CA,3499000,6.0,4.0,San Francisco,4680.0,1927.0,11.0,748.0,Active,San Francisco MLS,423735424,37.8003059,-122.4465995
+MLS Listing,Condo/Co-op,San Francisco,CA,749000,2.0,1.0,San Francisco,1039.0,1900.0,11.0,721.0,Active,San Francisco MLS,423735398,37.7532704,-122.410741
+MLS Listing,Single Family Residential,San Francisco,CA,1298000,4.0,2.0,SAN FRANCISCO,1853.0,1953.0,11.0,700.0,Active,MLSListings,ML81925217,37.7201633,-122.4011648
+MLS Listing,Multi-Family (2-4 Unit),San Francisco,CA,999000,2.0,2.0,San Francisco,2420.0,1900.0,11.0,413.0,Active,San Francisco MLS,423734487,37.7463989,-122.415886
+MLS Listing,Condo/Co-op,San Francisco,CA,1495000,2.0,2.0,San Francisco,1267.0,2014.0,11.0,1180.0,Active,San Francisco MLS,423734803,37.7863747,-122.3919931
+MLS Listing,Condo/Co-op,San Francisco,CA,2595000,2.0,2.0,San Francisco,1868.0,1989.0,11.0,1389.0,Active,San Francisco MLS,423734817,37.7929469,-122.4118142
+MLS Listing,Condo/Co-op,San Francisco,CA,899000,1.0,1.5,San Francisco,1107.0,1994.0,11.0,812.0,Active,San Francisco MLS,423720473,37.7789668,-122.3942944
+MLS Listing,Condo/Co-op,San Francisco,CA,3650000,4.0,4.0,San Francisco,3376.0,2006.0,11.0,1081.0,Active,San Francisco MLS,423735160,37.7828084,-122.4079666
+MLS Listing,Condo/Co-op,San Francisco,CA,1625000,2.0,2.0,San Francisco,1312.0,2014.0,11.0,1239.0,Active,San Francisco MLS,423732723,37.7863747,-122.3919931
+MLS Listing,Multi-Family (2-4 Unit),San Francisco,CA,1600000,7.0,2.0,San Francisco,3507.0,1908.0,11.0,456.0,Active,San Francisco MLS,423734945,37.765554,-122.4229603
+MLS Listing,Multi-Family (2-4 Unit),San Francisco,CA,1095000,5.0,3.0,San Francisco,2060.0,1926.0,11.0,532.0,Active,San Francisco MLS,423728474,37.7216308,-122.4543085
+MLS Listing,Single Family Residential,San Francisco,CA,1700000,2.0,2.0,San Francisco,1945.0,1885.0,12.0,874.0,Active,San Francisco MLS,423734360,37.7622031,-122.4370142
+MLS Listing,Multi-Family (2-4 Unit),San Francisco,CA,1999999,8.0,2.0,SAN FRANCISCO,4020.0,1913.0,12.0,498.0,Active,MLSListings,ML81925083,37.759655,-122.42475
+MLS Listing,Single Family Residential,San Francisco,CA,1250000,3.0,2.0,San Francisco,1498.0,2001.0,12.0,834.0,Active,MetroList,423735100,37.7752602,-122.4025368
+MLS Listing,Condo/Co-op,San Francisco,CA,648000,1.0,1.0,San Francisco,678.0,2009.0,12.0,956.0,Active,San Francisco MLS,423734857,37.7903824,-122.3961531
+MLS Listing,Multi-Family (2-4 Unit),San Francisco,CA,1275000,4.0,2.0,San Francisco,2304.0,1900.0,12.0,553.0,Active,San Francisco MLS,423734667,37.7318489,-122.4412746
+MLS Listing,Single Family Residential,San Francisco,CA,8980000,5.0,6.0,Pacific Heights,4571.0,1900.0,12.0,1965.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41024376,37.7899821,-122.4453909
+MLS Listing,Condo/Co-op,San Francisco,CA,2249000,2.0,2.0,San Francisco,1602.0,2009.0,12.0,1404.0,Active,San Francisco MLS,423723887,37.7903824,-122.3961531
+MLS Listing,Multi-Family (2-4 Unit),San Francisco,CA,6250000,21.0,19.0,San Francisco,8646.0,1908.0,13.0,723.0,Active,San Francisco MLS,423734921,37.7744989,-122.4425927
+MLS Listing,Single Family Residential,San Francisco,CA,799000,3.0,1.0,San Francisco,1767.0,1907.0,13.0,452.0,Active,San Francisco MLS,423734719,37.7321363,-122.4082034
+MLS Listing,Condo/Co-op,San Francisco,CA,1995000,3.0,2.5,San Francisco,1756.0,1908.0,13.0,1136.0,Active,San Francisco MLS,423734848,37.7945581,-122.4128143
+MLS Listing,Single Family Residential,San Francisco,CA,3250000,4.0,4.5,San Francisco,2642.0,1906.0,13.0,1230.0,Active,San Francisco MLS,423733459,37.7845686,-122.4566095
+MLS Listing,Condo/Co-op,San Francisco,CA,1295000,2.0,1.0,San Francisco,1354.0,1900.0,13.0,956.0,Active,San Francisco MLS,423732924,37.774993,-122.443204
+MLS Listing,Multi-Family (2-4 Unit),San Francisco,CA,1995000,4.0,1.0,San Francisco,3250.0,1939.0,13.0,614.0,Active,San Francisco MLS,423734479,37.7782583,-122.4481039
+MLS Listing,Single Family Residential,San Francisco,CA,985000,2.0,1.0,San Francisco,1500.0,1924.0,13.0,657.0,Active,San Francisco MLS,423734781,37.7361016,-122.3887513
+MLS Listing,Condo/Co-op,San Francisco,CA,6500000,3.0,3.0,San Francisco,2940.0,1925.0,13.0,2211.0,Active,San Francisco MLS,423728412,37.7952733,-122.4294493
+MLS Listing,Single Family Residential,San Francisco,CA,4750000,3.0,3.5,San Francisco,3600.0,1920.0,13.0,1319.0,Active,San Francisco MLS,423734752,37.785271,-122.4889801
+MLS Listing,Multi-Family (2-4 Unit),San Francisco,CA,2095000,7.0,5.5,San Francisco,2292.0,1909.0,13.0,914.0,Active,San Francisco MLS,423733054,37.7633434,-122.4333691
+MLS Listing,Single Family Residential,San Francisco,CA,1299000,3.0,2.0,San Francisco,2460.0,1995.0,13.0,528.0,Active,San Francisco MLS,423734656,37.7321672,-122.4134441
+MLS Listing,Condo/Co-op,San Francisco,CA,738000,2.0,2.0,San Francisco,790.0,1965.0,13.0,934.0,Active,San Francisco MLS,423734626,37.7626587,-122.4682227
+MLS Listing,Condo/Co-op,San Francisco,CA,1590000,3.0,2.0,San Francisco,1600.0,1956.0,13.0,994.0,Active,San Francisco MLS,423734478,37.756657,-122.43608
+MLS Listing,Condo/Co-op,San Francisco,CA,505000,0.0,1.0,San Francisco,592.0,1972.0,13.0,853.0,Active,San Francisco MLS,423734168,37.745807,-122.442069
+MLS Listing,Condo/Co-op,San Francisco,CA,1395000,2.0,2.0,San Francisco,1141.0,2017.0,15.0,1223.0,Active,San Francisco MLS,423734550,37.7893082,-122.4211982
+MLS Listing,Condo/Co-op,San Francisco,CA,519000,0.0,1.0,San Francisco,575.0,1920.0,15.0,903.0,Active,San Francisco MLS,423734635,37.7896562,-122.414318
+MLS Listing,Condo/Co-op,San Francisco,CA,1950000,3.0,3.0,San Francisco,1599.0,2008.0,15.0,1220.0,Active,San Francisco MLS,423734610,37.7897457,-122.3908558
+MLS Listing,Condo/Co-op,San Francisco,CA,1598000,2.0,2.0,San Francisco,1682.0,1966.0,15.0,950.0,Active,San Francisco MLS,423734503,37.7474084,-122.4244885
+MLS Listing,Single Family Residential,San Francisco,CA,1298000,4.0,2.0,San Francisco,1550.0,1949.0,15.0,837.0,Active,San Francisco MLS,423734439,37.7444345,-122.4913274
+MLS Listing,Single Family Residential,San Francisco,CA,1195000,2.0,1.0,San Francisco,1130.0,1924.0,16.0,1058.0,Active,San Francisco MLS,423734241,37.7317826,-122.4500022
+MLS Listing,Condo/Co-op,San Francisco,CA,725000,1.0,1.0,San Francisco,823.0,2004.0,16.0,881.0,Active,San Francisco MLS,423734438,37.7776622,-122.3934514
+MLS Listing,Condo/Co-op,San Francisco,CA,1349000,2.0,2.0,San Francisco,1176.0,2012.0,16.0,1147.0,Active,San Francisco MLS,423718424,37.7718864,-122.3885728
+MLS Listing,Condo/Co-op,San Francisco,CA,1699000,2.0,2.0,San Francisco,2085.0,1916.0,16.0,815.0,Active,San Francisco MLS,423730053,37.778254,-122.3958876
+MLS Listing,Condo/Co-op,San Francisco,CA,649000,1.0,1.0,San Francisco,719.0,1991.0,16.0,903.0,Active,San Francisco MLS,423734373,37.7874798,-122.3905769
+MLS Listing,Condo/Co-op,San Francisco,CA,1095000,2.0,1.0,San Francisco,1045.0,1948.0,16.0,1048.0,Active,San Francisco MLS,423727008,37.7785657,-122.5069501
+MLS Listing,Condo/Co-op,San Francisco,CA,2395000,2.0,2.0,San Francisco,1950.0,1915.0,16.0,1228.0,Active,San Francisco MLS,423734022,37.8008905,-122.419284
+MLS Listing,Single Family Residential,San Francisco,CA,3885000,4.0,3.5,San Francisco,3320.0,1910.0,16.0,1170.0,Active,San Francisco MLS,423734303,37.7455516,-122.431527
+MLS Listing,Multi-Family (2-4 Unit),San Francisco,CA,3200000,6.0,2.0,San Francisco,3310.0,1927.0,16.0,967.0,Active,San Francisco MLS,423733839,37.8021275,-122.4381106
+MLS Listing,Single Family Residential,San Francisco,CA,2995000,4.0,2.5,San Francisco,2055.0,1957.0,16.0,1457.0,Active,San Francisco MLS,423734207,37.7393076,-122.4309535
+MLS Listing,Condo/Co-op,San Francisco,CA,849000,1.0,1.5,San Francisco,1020.0,2001.0,16.0,832.0,Active,San Francisco MLS,423733968,37.7810305,-122.4021953
+MLS Listing,Condo/Co-op,San Francisco,CA,1199000,2.0,2.0,San Francisco,1315.0,1900.0,16.0,912.0,Active,San Francisco MLS,423734242,37.7872431,-122.4349647
+MLS Listing,Single Family Residential,San Francisco,CA,4498000,7.0,5.5,San Francisco,4075.0,1952.0,16.0,1104.0,Active,San Francisco MLS,423714537,37.735861,-122.431558
+MLS Listing,Condo/Co-op,San Francisco,CA,699000,1.0,1.0,San Francisco,745.0,2008.0,16.0,938.0,Active,San Francisco MLS,423733956,37.7786972,-122.4126145
+MLS Listing,Condo/Co-op,San Francisco,CA,699000,0.0,1.0,San Francisco,598.0,1907.0,16.0,1169.0,Active,San Francisco MLS,423729160,37.7862409,-122.459613
+MLS Listing,Condo/Co-op,San Francisco,CA,799000,1.0,1.0,San Francisco,612.0,2018.0,16.0,1306.0,Active,San Francisco MLS,423734221,37.7539098,-122.4211624
+MLS Listing,Single Family Residential,San Francisco,CA,959000,4.0,2.0,San Francisco,1220.0,1900.0,16.0,786.0,Active,San Francisco MLS,423733526,37.719084,-122.4306233
+MLS Listing,Multi-Family (2-4 Unit),San Francisco,CA,4300000,7.0,7.0,San Francisco,4570.0,1908.0,16.0,941.0,Active,San Francisco MLS,423729614,37.8053123,-122.4205768
+MLS Listing,Single Family Residential,San Francisco,CA,6975000,4.0,5.0,San Francisco,4620.0,1900.0,16.0,1510.0,Active,San Francisco MLS,423732926,37.7470237,-122.4279009
+MLS Listing,Condo/Co-op,San Francisco,CA,599000,1.0,1.0,San Francisco,600.0,2004.0,16.0,998.0,Active,San Francisco MLS,423728816,37.7776622,-122.3934514
+MLS Listing,Condo/Co-op,San Francisco,CA,995000,2.0,2.0,San Francisco,1267.0,1993.0,16.0,785.0,Active,San Francisco MLS,423732311,37.7859193,-122.4244722
+MLS Listing,Single Family Residential,San Francisco,CA,1088000,3.0,2.5,San Francisco,1130.0,1925.0,17.0,963.0,Active,San Francisco MLS,423734180,37.7194481,-122.4363396
+MLS Listing,Single Family Residential,San Francisco,CA,1250000,3.0,2.0,City,2078.0,1917.0,17.0,602.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41024182,37.7314255,-122.4405973
+MLS Listing,Condo/Co-op,San Francisco,CA,995000,2.0,2.0,San Francisco,1167.0,1988.0,17.0,853.0,Active,San Francisco MLS,423731562,37.786783,-122.4219061
+MLS Listing,Condo/Co-op,San Francisco,CA,1399000,3.0,2.5,San Francisco,2133.0,2015.0,17.0,656.0,Active,San Francisco MLS,423734102,37.7151623,-122.47517
+MLS Listing,Condo/Co-op,San Francisco,CA,1625000,3.0,1.5,San Francisco,1450.0,1911.0,17.0,1121.0,Active,San Francisco MLS,423733154,37.7986101,-122.4180429
+MLS Listing,Condo/Co-op,San Francisco,CA,1750000,4.0,2.0,San Francisco,2534.0,1900.0,17.0,691.0,Active,San Francisco MLS,422711631,37.7534525,-122.4216702
+MLS Listing,Condo/Co-op,San Francisco,CA,1250000,4.0,2.0,San Francisco,1581.0,1900.0,17.0,791.0,Active,San Francisco MLS,422711623,37.7534525,-122.4216702
+MLS Listing,Single Family Residential,San Francisco,CA,2699000,4.0,4.5,San Francisco,2123.0,1914.0,17.0,1271.0,Active,San Francisco MLS,423733082,37.7773068,-122.4703085
+MLS Listing,Multi-Family (2-4 Unit),San Francisco,CA,2275000,10.0,3.0,San Francisco,4500.0,1907.0,17.0,506.0,Active,San Francisco MLS,423733969,37.7680899,-122.4522324
+MLS Listing,Single Family Residential,San Francisco,CA,2950000,3.0,3.5,San Francisco,2710.0,1902.0,17.0,1089.0,Active,San Francisco MLS,423725792,37.7846776,-122.4638675
+MLS Listing,Condo/Co-op,San Francisco,CA,885000,2.0,2.0,San Francisco,1015.0,1905.0,17.0,872.0,Active,San Francisco MLS,423733955,37.7479497,-122.4161178
+MLS Listing,Multi-Family (2-4 Unit),San Francisco,CA,2700999,6.0,1.0,San Francisco,4252.0,1900.0,17.0,635.0,Active,San Francisco MLS,423733852,37.773958,-122.4355159
+MLS Listing,Single Family Residential,San Francisco,CA,1300000,2.0,1.0,San Francisco,850.0,1943.0,17.0,1529.0,Active,San Francisco MLS,423731992,37.7637917,-122.5080793
+MLS Listing,Single Family Residential,San Francisco,CA,1800000,6.0,3.0,San Francisco,2411.0,1906.0,17.0,747.0,Active,BAREIS,423728899,37.7164362,-122.4091742
+MLS Listing,Single Family Residential,Dublin,CA,1299000,4.0,2.0,Echo Park,1638.0,1966.0,4.0,793.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41025403,37.7138495,-121.9170172
+MLS Listing,Condo/Co-op,Dublin,CA,448000,1.0,1.0,Dublin,840.0,2004.0,1.0,533.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41024529,37.7050701,-121.8611533
+MLS Listing,Single Family Residential,Dublin,CA,1998000,4.0,2.5,Dublin Ranch,3104.0,2002.0,3.0,644.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41025557,37.715231,-121.851383
+MLS Listing,Single Family Residential,Dublin,CA,1549000,4.0,2.0,Silvergate,2020.0,1986.0,3.0,767.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41025489,37.7070495,-121.9471027
+MLS Listing,Condo/Co-op,Dublin,CA,778000,2.0,2.0,Dublin,1399.0,2007.0,3.0,556.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41025474,37.705241,-121.8987885
+MLS Listing,Condo/Co-op,Dublin,CA,899000,3.0,2.5,Ca Highlands,1387.0,1997.0,3.0,648.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41025436,37.699572,-121.957696
+MLS Listing,Single Family Residential,Dublin,CA,2570000,5.0,4.0,Dublin Ranch,2744.0,2014.0,3.0,937.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41025433,37.713137,-121.8482
+MLS Listing,Condo/Co-op,Dublin,CA,1328000,3.0,4.0,Dublin,2322.0,2007.0,4.0,572.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41025414,37.7112218,-121.8679526
+MLS Listing,Condo/Co-op,Dublin,CA,729000,2.0,2.0,Dublin,963.0,1991.0,4.0,757.0,Active,MetroList,223035661,37.7033338,-121.9384131
+MLS Listing,Single Family Residential,Dublin,CA,1449888,3.0,2.5,Dublin,1841.0,2018.0,4.0,788.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41023098,37.7383046,-121.8755399
+MLS Listing,Condo/Co-op,Dublin,CA,949000,2.0,2.5,Dublin,1348.0,2018.0,9.0,704.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41024958,37.707062,-121.898126
+MLS Listing,Condo/Co-op,Dublin,CA,1180000,3.0,3.5,Dublin,1962.0,2017.0,10.0,601.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41024824,37.7353048,-121.8730681
+MLS Listing,Single Family Residential,Dublin,CA,2198000,4.0,3.0,Dublin Hills,2856.0,2010.0,11.0,770.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41024698,37.7201397,-121.8518337
+MLS Listing,Single Family Residential,Dublin,CA,2388000,4.0,4.5,Dublin,3680.0,2018.0,12.0,649.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41024555,37.7365484,-121.8796976
+MLS Listing,Townhouse,Dublin,CA,1395000,4.0,3.5,Dublin Ranch,2704.0,2014.0,16.0,516.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41024244,37.7088554,-121.8615169
+MLS Listing,Single Family Residential,Dublin,CA,1999900,5.0,3.0,Silvergate,2651.0,1988.0,23.0,754.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41023611,37.7109003,-121.948422
+MLS Listing,Condo/Co-op,San Ramon,CA,660000,2.0,2.5,The Vintner,1230.0,1971.0,24.0,537.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41023474,37.7256494,-121.9357117
+MLS Listing,Townhouse,Dublin,CA,1299000,4.0,3.5,Dublin Ranch,2787.0,2007.0,25.0,466.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41023382,37.7093919,-121.8641748
+MLS Listing,Single Family Residential,Dublin,CA,1998000,4.0,3.0,Summerglen,2460.0,2000.0,32.0,812.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41022712,37.711143,-121.882649
+MLS Listing,Townhouse,Dublin,CA,1100000,3.0,2.5,Dublin Ranch,1565.0,2000.0,38.0,703.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41021503,37.7069636,-121.875589
+MLS Listing,Condo/Co-op,Dublin,CA,1370000,4.0,2.5,Dublin,2250.0,2004.0,254.0,609.0,Active,MetroList,222108736,37.709259,-121.868377
+New Construction Home,Townhouse,Dublin,CA,1144280,4.0,3.5,Abbey Neighborhood at Boulevard,2430.0,2023.0,5.0,471.0,Active,NewHomeSource.com,2432279,37.708466,-121.895499
+New Construction Home,Townhouse,Dublin,CA,1136280,4.0,3.5,Abbey Neighborhood at Boulevard,2192.0,2023.0,5.0,518.0,Active,NewHomeSource.com,2432277,37.708357,-121.895502
+New Construction Home,Townhouse,Dublin,CA,1144280,4.0,3.5,Abbey Neighborhood at Boulevard,2430.0,2023.0,5.0,471.0,Active,NewHomeSource.com,2432278,37.708412,-121.8955
+New Construction Home,Multi-Family (2-4 Unit),Dublin,CA,1291437,4.0,3.5,Boulevard - Venice,2773.0,2023.0,6.0,466.0,Active,NewHomeSource.com,2430888,37.712774,-121.89701
+New Construction Home,Multi-Family (2-4 Unit),Dublin,CA,1300809,4.0,3.5,Boulevard - Venice,2756.0,2023.0,13.0,472.0,Active,NewHomeSource.com,2426499,37.712784,-121.897674
+New Construction Home,Multi-Family (2-4 Unit),Dublin,CA,1502142,4.0,3.0,Boulevard - Lombard,2384.0,2023.0,34.0,630.0,Active,NewHomeSource.com,2412620,37.7106301,-121.9016398
+MLS Listing,Single Family Residential,San Jose,CA,2550000,5.0,3.5,SAN JOSE,2646.0,2004.0,2.0,964.0,Active,MLSListings,ML81926385,37.3078612,-121.898261
+MLS Listing,Single Family Residential,San Jose,CA,1399888,3.0,2.0,SAN JOSE,1759.0,1965.0,3.0,796.0,Active,MLSListings,ML81924811,37.3902604,-121.8331532
+MLS Listing,Single Family Residential,San Jose,CA,799000,2.0,1.0,SAN JOSE,672.0,1920.0,3.0,1189.0,Active,MLSListings,ML81926186,37.3152934,-121.8820129
+MLS Listing,Townhouse,San Jose,CA,1299000,4.0,3.5,San Jose,2258.0,2017.0,3.0,575.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41025490,37.2439519,-121.7970874
+MLS Listing,Condo/Co-op,San Jose,CA,620000,1.0,1.0,SAN JOSE,687.0,2009.0,10.0,902.0,Active,MLSListings,ML81925406,37.311013,-121.882429
+MLS Listing,Single Family Residential,San Jose,CA,1398000,5.0,4.0,SAN JOSE,2178.0,2019.0,10.0,642.0,Active,MLSListings,ML81925393,37.285146,-121.8510794
+MLS Listing,Single Family Residential,San Jose,CA,1650000,3.0,2.0,SAN JOSE,1571.0,1960.0,10.0,1050.0,Active,MLSListings,ML81925384,37.317076,-121.9607976
+MLS Listing,Townhouse,San Jose,CA,1098000,3.0,3.0,SAN JOSE,1410.0,2008.0,23.0,779.0,Active,MLSListings,ML81923917,37.2982545,-121.8800061
+MLS Listing,Multi-Family (2-4 Unit),San Jose,CA,868888,3.0,2.0,SAN JOSE,1100.0,1898.0,53.0,790.0,Active,MLSListings,ML81920613,37.3410425,-121.8823878
+Redfin Data,Condo/Co-op,San Jose,CA,830000,3.0,1.5,San Jose,1260.0,1984.0,5.0,659.0,Pre On-Market,Coming Soon,92224,37.256596,-121.842759
+Redfin Data,Single Family Residential,San Jose,CA,1099000,3.0,2.0,San Jose,1584.0,1976.0,21.0,694.0,Pre On-Market,Coming Soon,91890,37.3018979,-121.8259685
+MLS Listing,Single Family Residential,San Jose,CA,1788000,5.0,3.0,SAN JOSE,2377.0,2000.0,1.0,752.0,Active,MLSListings,ML81926462,37.2832789,-121.8780301
+MLS Listing,Single Family Residential,San Jose,CA,900000,3.0,2.0,Fair Acres,1132.0,1959.0,1.0,795.0,Active,MetroList,223034544,37.3028784,-121.8473877
+MLS Listing,Condo/Co-op,San Jose,CA,859000,3.0,2.0,SAN JOSE,1224.0,2007.0,1.0,702.0,Active,MLSListings,ML81924227,37.360778,-121.890486
+MLS Listing,Condo/Co-op,San Jose,CA,798000,2.0,2.0,SAN JOSE,1568.0,1985.0,1.0,509.0,Active,MLSListings,ML81926424,37.2935049,-121.7456518
+MLS Listing,Condo/Co-op,San Jose,CA,649000,2.0,2.0,SAN JOSE,1300.0,1972.0,1.0,499.0,Active,MLSListings,ML81926406,37.288437,-121.757446
+MLS Listing,Single Family Residential,San Jose,CA,1025000,5.0,2.5,San Jose,1626.0,1996.0,2.0,630.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41025245,37.3537739,-121.8426727
+MLS Listing,Single Family Residential,San Jose,CA,1499000,3.0,1.0,SAN JOSE,1592.0,1917.0,2.0,942.0,Active,MLSListings,ML81926400,37.3345132,-121.917288
+MLS Listing,Townhouse,San Jose,CA,930000,3.0,3.0,SAN JOSE,1400.0,2006.0,2.0,664.0,Active,MLSListings,ML81926085,37.3825848,-121.8588129
+MLS Listing,Condo/Co-op,San Jose,CA,724950,2.0,2.0,SAN JOSE,1490.0,1989.0,2.0,487.0,Active,MLSListings,ML81926389,37.289992,-121.7383521
+MLS Listing,Single Family Residential,San Jose,CA,1700000,4.0,2.5,Central San Jose,2460.0,1888.0,2.0,691.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41025709,37.3462135,-121.8975941
+MLS Listing,Single Family Residential,San Jose,CA,1950000,4.0,2.5,SAN JOSE,2401.0,1991.0,2.0,812.0,Active,MLSListings,ML81926376,37.3822151,-121.8916808
+MLS Listing,Single Family Residential,Los Gatos,CA,2275000,3.0,2.0,LOS GATOS,2016.0,1964.0,2.0,1128.0,Active,MLSListings,ML81926265,37.2350284,-121.9170435
+MLS Listing,Single Family Residential,San Jose,CA,1680000,5.0,3.0,SAN JOSE,2248.0,1965.0,2.0,747.0,Active,MLSListings,ML81926373,37.4142718,-121.8739275
+MLS Listing,Single Family Residential,San Jose,CA,2100000,3.0,2.5,SAN JOSE,2168.0,1927.0,2.0,969.0,Active,MLSListings,ML81926372,37.3794381,-121.812065
+MLS Listing,Single Family Residential,San Jose,CA,1195000,2.0,1.0,SAN JOSE,1320.0,1947.0,2.0,905.0,Active,MLSListings,ML81926362,37.3211018,-121.9345339
+MLS Listing,Single Family Residential,San Jose,CA,1345000,2.0,1.0,SAN JOSE,863.0,1941.0,2.0,1559.0,Active,MLSListings,ML81922901,37.3036354,-121.8810094
+MLS Listing,Single Family Residential,Campbell,CA,1989000,4.0,2.0,CAMPBELL,1753.0,1961.0,2.0,1135.0,Active,MLSListings,ML81926344,37.2834705,-121.966374
+MLS Listing,Single Family Residential,San Jose,CA,1295000,2.0,1.0,SAN JOSE,823.0,1941.0,2.0,1574.0,Active,MLSListings,ML81923064,37.3037482,-121.8810094
+MLS Listing,Single Family Residential,San Jose,CA,1750000,5.0,3.0,SAN JOSE,2509.0,1966.0,2.0,697.0,Active,MLSListings,ML81926313,37.2334144,-121.8286587
+MLS Listing,Single Family Residential,San Jose,CA,1800000,4.0,3.5,SAN JOSE,2761.0,2019.0,2.0,652.0,Active,MLSListings,ML81926298,37.2850814,-121.8490334
+MLS Listing,Single Family Residential,San Jose,CA,1600000,3.0,2.0,SAN JOSE,1622.0,1973.0,2.0,986.0,Active,MLSListings,ML81925327,37.2932305,-121.7645575
+MLS Listing,Single Family Residential,San Jose,CA,1499000,4.0,2.5,SAN JOSE,1980.0,1981.0,2.0,757.0,Active,MLSListings,ML81925700,37.2455802,-121.7797111
+MLS Listing,Single Family Residential,San Jose,CA,3298000,5.0,4.5,SAN JOSE,4230.0,2000.0,2.0,780.0,Active,MLSListings,ML81925926,37.3013601,-121.788503
+MLS Listing,Single Family Residential,San Jose,CA,1298000,3.0,2.0,SAN JOSE,1298.0,1968.0,2.0,1000.0,Active,MLSListings,ML81926286,37.2358159,-121.8214943
+MLS Listing,Mobile/Manufactured Home,San Jose,CA,148000,1.0,1.0,SAN JOSE,600.0,1970.0,2.0,247.0,Active,MLSListings,ML81926336,37.2981286,-121.842789
+MLS Listing,Multi-Family (5+ Unit),San Jose,CA,3050000,9.0,9.0,SAN JOSE,5044.0,1959.0,2.0,605.0,Active,MLSListings,ML81926328,37.3319168,-121.876407
+MLS Listing,Single Family Residential,San Jose,CA,2195000,3.0,3.0,SAN JOSE,1744.0,1949.0,2.0,1259.0,Active,MLSListings,ML81926273,37.3059917,-121.9114424
+MLS Listing,Single Family Residential,San Jose,CA,1499000,3.0,3.0,SAN JOSE,1701.0,1952.0,2.0,881.0,Active,MLSListings,ML81926268,37.3864724,-121.8318598
+MLS Listing,Condo/Co-op,San Jose,CA,829888,2.0,2.5,Deer Run,1196.0,1988.0,2.0,694.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41025594,37.2658223,-121.8236174
+MLS Listing,Single Family Residential,San Jose,CA,1448000,3.0,2.0,SAN JOSE,1523.0,1961.0,2.0,951.0,Active,MLSListings,ML81926264,37.2796451,-121.9022218
+MLS Listing,Single Family Residential,San Jose,CA,985000,3.0,2.0,SAN JOSE,1608.0,1898.0,2.0,613.0,Active,MLSListings,ML81926260,37.330023,-121.8806536
+MLS Listing,Single Family Residential,San Jose,CA,2199000,4.0,3.0,SAN JOSE,2793.0,1971.0,2.0,787.0,Active,MLSListings,ML81925113,37.2240892,-121.8913312
+MLS Listing,Condo/Co-op,San Jose,CA,425000,2.0,1.0,SAN JOSE,810.0,1970.0,3.0,525.0,Active,MLSListings,ML81926237,37.2479492,-121.8526898
+MLS Listing,Single Family Residential,San Jose,CA,1999999,4.0,2.5,SAN JOSE,2800.0,1981.0,3.0,714.0,Active,MLSListings,ML81926236,37.3299048,-121.7898603
+MLS Listing,Single Family Residential,Campbell,CA,1199888,4.0,1.5,CAMPBELL,1387.0,1953.0,3.0,865.0,Active,MLSListings,ML81926234,37.2678685,-121.9412893
+MLS Listing,Mobile/Manufactured Home,San Jose,CA,389900,2.0,2.0,SAN JOSE,1864.0,1980.0,3.0,209.0,Active,MLSListings,ML81926233,37.4178194,-121.9596008
+MLS Listing,Single Family Residential,San Jose,CA,1450000,4.0,2.0,SAN JOSE,1596.0,1950.0,3.0,909.0,Active,MLSListings,ML81926228,37.2997809,-121.883455
+MLS Listing,Single Family Residential,San Jose,CA,1688000,4.0,3.0,SAN JOSE,2029.0,1956.0,3.0,832.0,Active,MLSListings,ML81925718,37.2657138,-121.9246802
+MLS Listing,Townhouse,San Jose,CA,1199000,3.0,2.5,SAN JOSE,1444.0,1985.0,3.0,830.0,Active,MLSListings,ML81926227,37.2964905,-121.9286226
+MLS Listing,Mobile/Manufactured Home,San Jose,CA,309900,3.0,2.0,SAN JOSE,1200.0,1974.0,3.0,258.0,Active,MLSListings,ML81926221,37.4157075,-121.9450224
+MLS Listing,Townhouse,San Jose,CA,995500,2.0,2.0,SAN JOSE,1056.0,1972.0,3.0,943.0,Active,MLSListings,ML81925653,37.301147,-121.960883
+MLS Listing,Condo/Co-op,San Jose,CA,1529000,2.0,1.5,SAN JOSE,1250.0,2002.0,3.0,1223.0,Active,MLSListings,ML81926214,37.3220965,-121.9482887
+MLS Listing,Single Family Residential,San Jose,CA,1170000,3.0,2.0,SAN JOSE,1237.0,1990.0,3.0,946.0,Active,MLSListings,ML81926204,37.3221109,-121.9308005
+MLS Listing,Single Family Residential,San Jose,CA,1999999,5.0,3.0,SAN JOSE,2350.0,1975.0,3.0,851.0,Active,MLSListings,ML81924090,37.2235635,-121.8829176
+MLS Listing,Single Family Residential,San Jose,CA,1995000,3.0,2.0,San Jose,1804.0,1961.0,3.0,1106.0,Active,MetroList,223035802,37.2409386,-121.9399174
+MLS Listing,Single Family Residential,San Jose,CA,1180000,4.0,2.0,SAN JOSE,1387.0,1965.0,3.0,851.0,Active,MLSListings,ML81926184,37.4032809,-121.8787275
+MLS Listing,Condo/Co-op,Los Gatos,CA,1168000,2.0,2.0,LOS GATOS,1008.0,2022.0,3.0,1159.0,Active,MLSListings,ML81926180,37.283058,-121.935465
+MLS Listing,Single Family Residential,San Jose,CA,1550000,3.0,2.0,SAN JOSE,1735.0,1959.0,3.0,893.0,Active,MLSListings,ML81926175,37.2635473,-121.9155988
+MLS Listing,Condo/Co-op,San Jose,CA,985000,3.0,3.0,SAN JOSE,1335.0,1992.0,3.0,738.0,Active,MLSListings,ML81926164,37.2381369,-121.7657149
+MLS Listing,Single Family Residential,San Jose,CA,1649000,4.0,2.0,SAN JOSE,1632.0,1964.0,3.0,1010.0,Active,MLSListings,ML81924921,37.3064336,-121.8857227
+MLS Listing,Single Family Residential,San Jose,CA,2749000,5.0,3.0,SAN JOSE,3469.0,1980.0,3.0,792.0,Active,MLSListings,ML81926157,37.2009698,-121.833598
+MLS Listing,Single Family Residential,San Jose,CA,995000,3.0,2.0,SAN JOSE,1105.0,1979.0,3.0,900.0,Active,MLSListings,ML81925747,37.2565502,-121.797826
+MLS Listing,Single Family Residential,San Jose,CA,1588800,4.0,2.5,SAN JOSE,1971.0,1976.0,3.0,806.0,Active,MLSListings,ML81926135,37.3880523,-121.8451636
+MLS Listing,Single Family Residential,San Jose,CA,1049000,3.0,2.0,SAN JOSE,1092.0,1956.0,3.0,961.0,Active,MLSListings,ML81925940,37.357865,-121.8638885
+MLS Listing,Single Family Residential,San Jose,CA,724950,3.0,2.0,SAN JOSE,1040.0,1960.0,3.0,697.0,Active,MLSListings,ML81926131,37.3482431,-121.8073931
+MLS Listing,Single Family Residential,San Jose,CA,1199000,3.0,3.0,SAN JOSE,1780.0,1968.0,3.0,674.0,Active,MLSListings,ML81926125,37.235305,-121.7916103
+MLS Listing,Single Family Residential,San Jose,CA,499000,2.0,1.0,SAN JOSE,832.0,1925.0,3.0,600.0,Active,MLSListings,ML81925843,37.3429764,-121.8641553
+MLS Listing,Single Family Residential,San Jose,CA,1599000,3.0,2.0,SAN JOSE,1652.0,1957.0,3.0,968.0,Active,MLSListings,ML81926114,37.2756453,-121.8985457
+MLS Listing,Condo/Co-op,San Jose,CA,658000,2.0,2.0,SAN JOSE,1010.0,2005.0,3.0,651.0,Active,MLSListings,ML81925680,37.340624,-121.854952
+MLS Listing,Single Family Residential,San Jose,CA,2100000,4.0,2.5,SAN JOSE,1714.0,1955.0,3.0,1225.0,Active,MLSListings,ML81925713,37.2473744,-121.9440567
+MLS Listing,Single Family Residential,San Jose,CA,1399999,4.0,2.5,SAN JOSE,1774.0,1982.0,3.0,789.0,Active,MLSListings,ML81926103,37.344694,-121.7944885
+MLS Listing,Single Family Residential,San Jose,CA,928888,2.0,2.0,SAN JOSE,1061.0,1985.0,3.0,875.0,Active,MLSListings,ML81926101,37.3155725,-121.7895966
+MLS Listing,Single Family Residential,San Jose,CA,1475000,3.0,2.0,SAN JOSE,1528.0,1959.0,4.0,965.0,Active,MLSListings,ML81926094,37.2679616,-121.8828167
+MLS Listing,Single Family Residential,San Jose,CA,1475000,4.0,2.0,SAN JOSE,1477.0,1954.0,4.0,999.0,Active,MLSListings,ML81925947,37.2707866,-121.9145283
+MLS Listing,Single Family Residential,San Jose,CA,1100000,2.0,1.0,San Jose,840.0,1910.0,4.0,1310.0,Active,MetroList,223035688,37.3383383,-121.9156877
+MLS Listing,Single Family Residential,San Jose,CA,1575000,4.0,2.5,San Jose,2368.0,1980.0,4.0,665.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41023836,37.2342516,-121.7722358
+MLS Listing,Townhouse,San Jose,CA,1099950,3.0,3.0,SAN JOSE,1667.0,2016.0,4.0,660.0,Active,MLSListings,ML81926084,37.3668482,-121.8656725
+MLS Listing,Single Family Residential,San Jose,CA,1800000,3.0,2.0,SAN JOSE,1216.0,1960.0,4.0,1480.0,Active,MLSListings,ML81926080,37.284537,-121.967661
+MLS Listing,Single Family Residential,San Jose,CA,1180000,3.0,2.0,North San Jose,1215.0,1985.0,4.0,971.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41025404,37.379304874,-121.8788121
+MLS Listing,Single Family Residential,San Jose,CA,1349999,3.0,1.0,SAN JOSE,1134.0,1952.0,4.0,1190.0,Active,MLSListings,ML81926058,37.3284066,-121.9491108
+MLS Listing,Single Family Residential,San Jose,CA,999888,4.0,2.0,SAN JOSE,1461.0,1965.0,4.0,684.0,Active,MLSListings,ML81926056,37.316371,-121.8221647
+MLS Listing,Condo/Co-op,San Jose,CA,525000,2.0,1.0,SAN JOSE,704.0,1984.0,4.0,746.0,Active,MLSListings,ML81926054,37.3117551,-121.8802212
+MLS Listing,Single Family Residential,San Jose,CA,1399000,3.0,2.0,SAN JOSE,1355.0,1912.0,4.0,1032.0,Active,MLSListings,ML81926051,37.3154956,-121.8967493
+MLS Listing,Townhouse,San Jose,CA,1299000,2.0,2.5,SAN JOSE,1362.0,1987.0,4.0,954.0,Active,MLSListings,ML81926044,37.2746292,-121.8938721
+MLS Listing,Single Family Residential,San Jose,CA,1599000,3.0,1.5,SAN JOSE,1304.0,1940.0,4.0,1226.0,Active,MLSListings,ML81926029,37.2885604,-121.8883905
+MLS Listing,Single Family Residential,San Jose,CA,1788888,4.0,2.0,SAN JOSE,1688.0,1961.0,4.0,1060.0,Active,MLSListings,ML81926020,37.2753644,-121.9096864
+MLS Listing,Single Family Residential,San Jose,CA,1595000,4.0,2.0,SAN JOSE,1236.0,1958.0,4.0,1290.0,Active,MLSListings,ML81926014,37.3053715,-121.9663518
+MLS Listing,Single Family Residential,San Jose,CA,2000000,4.0,2.5,SAN JOSE,1994.0,1974.0,4.0,1003.0,Active,MLSListings,ML81924302,37.3941305,-121.8772139
+MLS Listing,Single Family Residential,San Jose,CA,1050000,2.0,1.0,SAN JOSE,988.0,1948.0,4.0,1063.0,Active,MLSListings,ML81925937,37.2965922,-121.8858116
+MLS Listing,Single Family Residential,San Jose,CA,1299000,4.0,2.0,SAN JOSE,1554.0,1973.0,4.0,836.0,Active,MLSListings,ML81925583,37.3808296,-121.8310179
+MLS Listing,Single Family Residential,San Jose,CA,1249000,3.0,2.0,SAN JOSE,1120.0,1973.0,4.0,1115.0,Active,MLSListings,ML81926003,37.3326851,-121.7915069
+MLS Listing,Mobile/Manufactured Home,San Jose,CA,289000,3.0,2.0,SAN JOSE,1344.0,1991.0,4.0,215.0,Active,MLSListings,ML81925996,37.2957573,-121.8408934
+MLS Listing,Single Family Residential,Milpitas,CA,1479999,4.0,2.0,MILPITAS,1504.0,1968.0,4.0,984.0,Active,MLSListings,ML81925995,37.4206271,-121.8690193
+MLS Listing,Single Family Residential,San Jose,CA,2099000,4.0,2.5,SAN JOSE,1798.0,1963.0,4.0,1167.0,Active,MLSListings,ML81925993,37.3013523,-121.9893207
+MLS Listing,Condo/Co-op,San Jose,CA,799000,2.0,2.0,San Jose,926.0,1984.0,4.0,863.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41024774,37.315013,-121.966815
+MLS Listing,Single Family Residential,San Jose,CA,1248000,3.0,2.0,SAN JOSE,1324.0,1968.0,4.0,943.0,Active,MLSListings,ML81925983,37.2413334,-121.8531253
+MLS Listing,Single Family Residential,San Jose,CA,950000,3.0,2.0,SAN JOSE,1287.0,1979.0,4.0,738.0,Active,MLSListings,ML81925982,37.3421633,-121.8167813
+MLS Listing,Single Family Residential,San Jose,CA,2499000,4.0,3.0,SAN JOSE,2884.0,2007.0,4.0,867.0,Active,MLSListings,ML81925938,37.2931196,-121.8886128
+MLS Listing,Multi-Family (2-4 Unit),San Jose,CA,1650000,8.0,4.0,SAN JOSE,2808.0,1961.0,4.0,588.0,Active,MLSListings,ML81925973,37.3181214,-121.8552603
+MLS Listing,Single Family Residential,San Jose,CA,1399000,4.0,2.0,SAN JOSE,1363.0,1955.0,4.0,1026.0,Active,MLSListings,ML81925972,37.2734009,-121.8939453
+MLS Listing,Single Family Residential,San Jose,CA,999888,3.0,2.0,SAN JOSE,1324.0,1949.0,4.0,755.0,Active,MLSListings,ML81923305,37.3841869,-121.8344878
+MLS Listing,Single Family Residential,San Jose,CA,959900,3.0,2.5,SAN JOSE,1376.0,1984.0,4.0,698.0,Active,MLSListings,ML81920049,37.339951,-121.8171372
+MLS Listing,Single Family Residential,San Jose,CA,3099950,4.0,2.5,SAN JOSE,2437.0,1971.0,4.0,1272.0,Active,MLSListings,ML81925966,37.2170949,-121.8755059
+MLS Listing,Condo/Co-op,San Jose,CA,554900,2.0,1.0,SAN JOSE,903.0,1970.0,4.0,615.0,Active,MLSListings,ML81925039,37.2548928,-121.826169
+MLS Listing,Single Family Residential,San Jose,CA,3398000,5.0,3.5,SAN JOSE,3392.0,1970.0,4.0,1002.0,Active,MLSListings,ML81925655,37.2828051,-121.921733
+MLS Listing,Single Family Residential,San Jose,CA,2500000,4.0,2.5,SAN JOSE,2952.0,1975.0,4.0,847.0,Active,MLSListings,ML81925953,37.208143,-121.8746949
+MLS Listing,Single Family Residential,San Jose,CA,1388000,3.0,2.0,SAN JOSE,1534.0,1972.0,5.0,905.0,Active,MLSListings,ML81925933,37.2261312,-121.8809427
+MLS Listing,Single Family Residential,San Jose,CA,1789000,4.0,3.5,SAN JOSE,2839.0,2020.0,5.0,630.0,Active,MLSListings,ML81925070,37.31915,-121.814129
+MLS Listing,Single Family Residential,Campbell,CA,2388000,6.0,4.0,CAMPBELL,2966.0,1955.0,5.0,805.0,Active,MLSListings,ML81925688,37.259661,-121.9492072
+MLS Listing,Townhouse,San Jose,CA,649000,3.0,3.0,SAN JOSE,1312.0,1998.0,5.0,495.0,Active,MLSListings,ML81925921,37.3538123,-121.8454305
+MLS Listing,Mobile/Manufactured Home,San Jose,CA,250000,2.0,2.0,SAN JOSE,1440.0,1976.0,5.0,174.0,Active,MLSListings,ML81925922,37.2973518,-121.9335657
+MLS Listing,Single Family Residential,San Jose,CA,1499999,4.0,2.5,SAN JOSE,2020.0,1954.0,5.0,743.0,Active,MLSListings,ML81925917,37.3812131,-121.8209699
+MLS Listing,Mobile/Manufactured Home,San Jose,CA,179900,2.0,2.0,SAN JOSE,1140.0,1968.0,5.0,158.0,Active,MLSListings,ML81925910,37.2771707,-121.8608194
+MLS Listing,Single Family Residential,San Jose,CA,1550000,4.0,2.0,SAN JOSE,1979.0,1953.0,5.0,783.0,Active,MLSListings,ML81925906,37.3701824,-121.8083275
+MLS Listing,Single Family Residential,San Jose,CA,1695000,5.0,2.5,SAN JOSE,1940.0,1970.0,5.0,874.0,Active,MLSListings,ML81925881,37.4049642,-121.8650422
+MLS Listing,Single Family Residential,San Jose,CA,1599000,3.0,2.0,SAN JOSE,2086.0,1920.0,5.0,767.0,Active,MLSListings,ML81925896,37.3342126,-121.8693141
+MLS Listing,Single Family Residential,San Jose,CA,1348888,3.0,2.0,SAN JOSE,1224.0,1963.0,5.0,1102.0,Active,MLSListings,ML81924397,37.2535943,-121.8909953
+MLS Listing,Single Family Residential,San Jose,CA,1295000,3.0,2.0,SAN JOSE,1720.0,1956.0,5.0,753.0,Active,MLSListings,ML81925871,37.2861328,-121.8811205
+MLS Listing,Multi-Family (2-4 Unit),San Jose,CA,995000,4.0,3.0,SAN JOSE,1720.0,1905.0,5.0,578.0,Active,MLSListings,ML81925870,37.31739,-121.877307
+MLS Listing,Condo/Co-op,San Jose,CA,995000,4.0,2.5,SAN JOSE,1700.0,2005.0,5.0,585.0,Active,MLSListings,ML81925869,37.3273451,-121.9038294
+MLS Listing,Single Family Residential,San Jose,CA,1749000,4.0,2.5,SAN JOSE,2085.0,1971.0,5.0,839.0,Active,MLSListings,ML81925276,37.2343312,-121.8733722
+MLS Listing,Single Family Residential,San Jose,CA,1188000,3.0,2.0,SAN JOSE,1364.0,1970.0,5.0,871.0,Active,MLSListings,ML81924048,37.2623166,-121.8677576
+MLS Listing,Single Family Residential,San Jose,CA,3298000,4.0,3.0,SAN JOSE,4559.0,2005.0,5.0,723.0,Active,MLSListings,ML81925860,37.2528994,-121.9286815
+MLS Listing,Single Family Residential,San Jose,CA,1295000,3.0,2.0,SAN JOSE,1300.0,1964.0,5.0,996.0,Active,MLSListings,ML81925861,37.4162575,-121.8702578
+MLS Listing,Single Family Residential,San Jose,CA,1299999,4.0,2.0,SAN JOSE,1453.0,1947.0,5.0,895.0,Active,MLSListings,ML81925853,37.3192289,-121.9368894
+MLS Listing,Single Family Residential,San Jose,CA,1988000,5.0,2.5,SAN JOSE,2450.0,1956.0,5.0,811.0,Active,MLSListings,ML81925064,37.3289611,-121.9362672
+MLS Listing,Single Family Residential,San Jose,CA,3888800,5.0,3.5,SAN JOSE,3575.0,2023.0,5.0,1088.0,Active,MLSListings,ML81925842,37.303616,-121.8834198
+MLS Listing,Single Family Residential,San Jose,CA,1899000,5.0,2.5,SAN JOSE,1557.0,1963.0,5.0,1220.0,Active,MLSListings,ML81925834,37.2824875,-121.9918749
+MLS Listing,Single Family Residential,San Jose,CA,1625000,3.0,2.0,SAN JOSE,1542.0,1958.0,5.0,1054.0,Active,MLSListings,ML81925832,37.2458469,-121.9265883
+MLS Listing,Other,San Jose,CA,1249800,4.0,2.0,SAN JOSE,1600.0,1955.0,6.0,781.0,Active,MLSListings,ML81925818,37.355597,-121.896841
+MLS Listing,Single Family Residential,San Jose,CA,1299000,3.0,2.5,SAN JOSE,1546.0,1963.0,6.0,840.0,Active,MLSListings,ML81925809,37.2479468,-121.8170548
+MLS Listing,Condo/Co-op,San Jose,CA,599888,2.0,1.5,SAN JOSE,1099.0,1970.0,6.0,546.0,Active,MLSListings,ML81925808,37.3201139,-121.9814798
+MLS Listing,Multi-Family (2-4 Unit),San Jose,CA,1699000,5.0,4.0,SAN JOSE,2142.0,1952.0,6.0,793.0,Active,MLSListings,ML81925795,37.3154565,-121.9476888
+MLS Listing,Single Family Residential,San Jose,CA,1149950,3.0,2.0,SAN JOSE,1037.0,1962.0,6.0,1109.0,Active,MLSListings,ML81925777,37.2439721,-121.8370302
+MLS Listing,Single Family Residential,San Jose,CA,1750000,3.0,2.0,SAN JOSE,1364.0,1959.0,6.0,1283.0,Active,MLSListings,ML81923031,37.2982027,-121.988299
+MLS Listing,Single Family Residential,Los Gatos,CA,2595888,4.0,2.5,LOS GATOS,2094.0,1968.0,6.0,1240.0,Active,MLSListings,ML81925769,37.2355659,-121.9208351
+MLS Listing,Single Family Residential,San Jose,CA,1399950,3.0,2.0,SAN JOSE,1506.0,1958.0,6.0,930.0,Active,MLSListings,ML81925552,37.2676066,-121.9191513
+MLS Listing,Single Family Residential,San Jose,CA,875000,3.0,2.0,SAN JOSE,1350.0,1979.0,6.0,648.0,Active,MLSListings,ML81925733,37.3556555,-121.8242112
+MLS Listing,Condo/Co-op,San Jose,CA,799999,2.0,2.0,SAN JOSE,1421.0,1997.0,6.0,563.0,Active,MLSListings,ML81925589,37.3339721,-121.8857869
+MLS Listing,Townhouse,San Jose,CA,565000,2.0,1.5,SAN JOSE,956.0,1979.0,7.0,591.0,Active,MLSListings,ML81925686,37.358431,-121.847018
+MLS Listing,Condo/Co-op,San Jose,CA,629000,1.0,1.0,SAN JOSE,1151.0,1997.0,7.0,546.0,Active,MLSListings,ML81925683,37.3339721,-121.8857869
+MLS Listing,Condo/Co-op,San Jose,CA,698000,2.0,2.0,SAN JOSE,1197.0,1974.0,8.0,583.0,Active,MLSListings,ML81925662,37.284401,-121.755967
+MLS Listing,Single Family Residential,San Jose,CA,1099000,4.0,2.0,SAN JOSE,1399.0,1964.0,8.0,786.0,Active,MLSListings,ML81925669,37.4105775,-121.8785616
+MLS Listing,Single Family Residential,San Jose,CA,1398000,3.0,1.0,SAN JOSE,1292.0,1947.0,8.0,1082.0,Active,MLSListings,ML81925664,37.257513,-121.9316894
+MLS Listing,Single Family Residential,San Jose,CA,888000,3.0,2.0,SAN JOSE,1020.0,1960.0,8.0,871.0,Active,MLSListings,ML81925652,37.3258118,-121.833598
+MLS Listing,Condo/Co-op,San Jose,CA,698888,1.0,1.0,SAN JOSE,700.0,1964.0,8.0,998.0,Active,MLSListings,ML81923175,37.3008343,-122.0276814
+MLS Listing,Townhouse,San Jose,CA,1727000,3.0,2.5,Almaden Villa,2535.0,1981.0,8.0,681.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41025049,37.2338639,-121.8838125
+MLS Listing,Single Family Residential,San Jose,CA,1050000,3.0,2.0,SAN JOSE,1246.0,1948.0,9.0,843.0,Active,MLSListings,ML81925623,37.3466863,-121.8744726
+MLS Listing,Condo/Co-op,San Jose,CA,539000,2.0,2.0,San Jose,1223.0,1971.0,9.0,441.0,Active,CRMLS,OC23067207,37.296931,-121.756259
+MLS Listing,Single Family Residential,San Jose,CA,1995000,3.0,2.0,SAN JOSE,1827.0,1987.0,9.0,1092.0,Active,MLSListings,ML81925579,37.2043458,-121.847392
+MLS Listing,Single Family Residential,San Jose,CA,1295000,3.0,2.0,SAN JOSE,1240.0,1959.0,9.0,1044.0,Active,MLSListings,ML81925572,37.2582436,-121.9116461
+MLS Listing,Single Family Residential,Los Gatos,CA,2328888,4.0,3.0,LOS GATOS,2497.0,1962.0,9.0,933.0,Active,MLSListings,ML81917088,37.2393858,-121.9341783
+MLS Listing,Single Family Residential,San Jose,CA,808888,3.0,2.0,SAN JOSE,1141.0,1959.0,9.0,709.0,Active,MLSListings,ML81925553,37.3413633,-121.8316407
+MLS Listing,Single Family Residential,San Jose,CA,1899999,4.0,3.0,SAN JOSE,2117.0,1997.0,9.0,897.0,Active,MLSListings,ML81924932,37.3097837,-121.7600194
+MLS Listing,Single Family Residential,San Jose,CA,1550000,4.0,2.5,SAN JOSE,2000.0,1968.0,9.0,775.0,Active,MLSListings,ML81925132,37.2696261,-121.8668853
+MLS Listing,Single Family Residential,San Jose,CA,3350000,5.0,5.5,SAN JOSE,3703.0,2023.0,9.0,905.0,Active,MLSListings,ML81925523,37.2650389,-121.9337446
+MLS Listing,Single Family Residential,San Jose,CA,1559000,3.0,2.5,SAN JOSE,2114.0,1956.0,9.0,737.0,Active,MLSListings,ML81924751,37.3910813,-121.8286742
+MLS Listing,Single Family Residential,San Jose,CA,1150000,3.0,2.0,SAN JOSE,1409.0,1968.0,9.0,816.0,Active,MLSListings,ML81925502,37.2418884,-121.8286156
+MLS Listing,Mobile/Manufactured Home,San Jose,CA,319900,4.0,2.0,SAN JOSE,1440.0,1973.0,9.0,222.0,Active,MLSListings,ML81925498,37.3964341,-121.902613
+MLS Listing,Single Family Residential,San Jose,CA,1685000,3.0,3.0,SAN JOSE,1441.0,1964.0,9.0,1169.0,Active,MLSListings,ML81925495,37.2957501,-121.8852336
+MLS Listing,Townhouse,San Jose,CA,1299000,3.0,2.0,SAN JOSE,1155.0,1986.0,9.0,1125.0,Active,MLSListings,ML81925491,37.1965453,-121.8484095
+MLS Listing,Single Family Residential,San Jose,CA,1099000,3.0,2.0,SAN JOSE,1355.0,1973.0,10.0,811.0,Active,MLSListings,ML81924976,37.2980561,-121.8101963
+MLS Listing,Townhouse,Campbell,CA,1799999,3.0,2.5,CAMPBELL,2656.0,1995.0,10.0,678.0,Active,MLSListings,ML81921471,37.273688,-121.937675
+MLS Listing,Condo/Co-op,San Jose,CA,795000,2.0,2.5,SAN JOSE,1488.0,1997.0,10.0,534.0,Active,MLSListings,ML81925091,37.3339721,-121.8857869
+MLS Listing,Single Family Residential,San Jose,CA,1999888,4.0,3.0,SAN JOSE,2187.0,1985.0,10.0,914.0,Active,MLSListings,ML81925444,37.2925892,-121.7570569
+MLS Listing,Single Family Residential,San Jose,CA,1698000,4.0,2.0,SAN JOSE,1380.0,1957.0,10.0,1230.0,Active,MLSListings,ML81925435,37.3139011,-121.964419
+MLS Listing,Mobile/Manufactured Home,San Jose,CA,354900,3.0,3.0,SAN JOSE,1600.0,1995.0,10.0,222.0,Active,MLSListings,ML81925460,37.4170281,-121.9402642
+MLS Listing,Single Family Residential,San Jose,CA,1495000,3.0,2.0,SAN JOSE,1421.0,1969.0,10.0,1052.0,Active,MLSListings,ML81925459,37.2568777,-121.8896778
+MLS Listing,Single Family Residential,San Jose,CA,1249000,5.0,4.0,SAN JOSE,2120.0,1908.0,10.0,589.0,Active,MLSListings,ML81925451,37.3463467,-121.882121
+MLS Listing,Condo/Co-op,San Jose,CA,749888,2.0,2.5,SAN JOSE,1224.0,1976.0,10.0,613.0,Active,MLSListings,ML81925454,37.3062257,-121.9198661
+MLS Listing,Mobile/Manufactured Home,San Jose,CA,368000,2.0,2.0,SAN JOSE,1344.0,1974.0,10.0,274.0,Active,MLSListings,ML81924459,37.297782,-121.9331618
+MLS Listing,Single Family Residential,San Jose,CA,950000,4.0,2.5,SAN JOSE,1531.0,1978.0,10.0,621.0,Active,MLSListings,ML81925448,37.3592604,-121.8350216
+MLS Listing,Townhouse,San Jose,CA,929888,1.0,1.5,SAN JOSE,1483.0,2001.0,10.0,627.0,Active,MLSListings,ML81924257,37.3539663,-121.8935482
+MLS Listing,Single Family Residential,San Jose,CA,1895000,5.0,3.0,SAN JOSE,3995.0,1989.0,10.0,474.0,Active,MLSListings,ML81925422,37.368568,-121.7750621
+MLS Listing,Single Family Residential,San Jose,CA,1999000,4.0,2.0,SAN JOSE,2135.0,1958.0,10.0,936.0,Active,MLSListings,ML81920948,37.2822865,-121.9047675
+MLS Listing,Single Family Residential,San Jose,CA,1148888,4.0,2.0,Berryessa,1480.0,1972.0,10.0,776.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41023714,37.4017938,-121.8637556
+MLS Listing,Condo/Co-op,San Jose,CA,1198000,3.0,3.0,SAN JOSE,1949.0,2000.0,10.0,615.0,Active,MLSListings,ML81925410,37.3405784,-121.8933925
+MLS Listing,Condo/Co-op,San Jose,CA,1040000,3.0,3.0,SAN JOSE,1522.0,2012.0,10.0,683.0,Active,MLSListings,ML81925408,37.3759456,-121.8510744
+MLS Listing,Single Family Residential,San Jose,CA,3299000,5.0,4.5,SAN JOSE,3200.0,2006.0,10.0,1031.0,Active,MLSListings,ML81925338,37.3080977,-121.8969716
+MLS Listing,Townhouse,Campbell,CA,1275000,3.0,2.5,CAMPBELL,1501.0,1989.0,10.0,849.0,Active,MLSListings,ML81925390,37.2637828,-121.9461384
+MLS Listing,Townhouse,San Jose,CA,1299999,4.0,3.5,SAN JOSE,2205.0,2015.0,10.0,590.0,Active,MLSListings,ML81924683,37.2454557,-121.7982511
+MLS Listing,Townhouse,San Jose,CA,1399999,3.0,2.5,San Jose,1817.0,2002.0,10.0,771.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41024764,37.3013287,-121.9561764
+MLS Listing,Single Family Residential,San Jose,CA,1449000,4.0,2.0,SAN JOSE,1473.0,1959.0,10.0,984.0,Active,MLSListings,ML81924583,37.2476946,-121.8955942
+MLS Listing,Single Family Residential,San Jose,CA,1295000,4.0,2.0,SAN JOSE,1858.0,1973.0,10.0,697.0,Active,MLSListings,ML81925363,37.2318503,-121.7699287
+MLS Listing,Condo/Co-op,San Jose,CA,799999,2.0,2.0,San Jose,1421.0,1997.0,10.0,563.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41024747,37.3339721,-121.8857869
+MLS Listing,Single Family Residential,San Jose,CA,2229000,5.0,3.0,SAN JOSE,2504.0,1996.0,10.0,890.0,Active,MLSListings,ML81922277,37.3998215,-121.8806981
+MLS Listing,Single Family Residential,San Jose,CA,1589000,4.0,3.5,SAN JOSE,2454.0,2019.0,10.0,648.0,Active,MLSListings,ML81925330,37.241606,-121.7873624
+MLS Listing,Multi-Family (5+ Unit),San Jose,CA,2395000,6.0,4.0,SAN JOSE,4088.0,1898.0,10.0,586.0,Active,MLSListings,ML81925317,37.3462053,-121.8959935
+MLS Listing,Mobile/Manufactured Home,San Jose,CA,328888,3.0,2.0,SAN JOSE,1344.0,1974.0,10.0,245.0,Active,MLSListings,ML81924342,37.3962328,-121.9053495
+MLS Listing,Condo/Co-op,San Jose,CA,885000,2.0,2.5,SAN JOSE,1051.0,1987.0,10.0,842.0,Active,MLSListings,ML81925313,37.298477,-122.031116
+MLS Listing,Single Family Residential,Campbell,CA,1998000,4.0,3.0,CAMPBELL,2090.0,1961.0,11.0,956.0,Active,MLSListings,ML81923351,37.280502,-121.9683068
+MLS Listing,Condo/Co-op,San Jose,CA,980000,2.0,2.0,SAN JOSE,1165.0,2008.0,11.0,841.0,Active,MLSListings,ML81925281,37.3350563,-121.8872863
+MLS Listing,Townhouse,San Jose,CA,495000,1.0,1.0,SAN JOSE,696.0,1986.0,11.0,711.0,Active,MLSListings,ML81923685,37.352739,-121.869922
+MLS Listing,Townhouse,San Jose,CA,649000,3.0,1.5,SAN JOSE,1165.0,1973.0,11.0,557.0,Active,MLSListings,ML81925279,37.359362,-121.847434
+MLS Listing,Single Family Residential,San Jose,CA,1500000,4.0,3.0,Berryessa,2360.0,1974.0,11.0,636.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41024678,37.38951,-121.8579734
+MLS Listing,Condo/Co-op,San Jose,CA,689900,2.0,1.0,SAN JOSE,964.0,1983.0,11.0,716.0,Active,MLSListings,ML81925258,37.2527479,-121.8746076
+MLS Listing,Mobile/Manufactured Home,San Jose,CA,285000,3.0,2.0,SAN JOSE,1836.0,1973.0,11.0,155.0,Active,MLSListings,ML81925253,37.2929214,-121.8666903
+MLS Listing,Townhouse,Milpitas,CA,1384589,3.0,3.0,Milpitas,1769.0,2023.0,11.0,783.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41024637,37.4057719,-121.8893595
+MLS Listing,Condo/Co-op,San Jose,CA,698000,2.0,2.0,SAN JOSE,922.0,1987.0,11.0,757.0,Active,MLSListings,ML81925202,37.376646,-121.879995
+MLS Listing,Single Family Residential,Cupertino,CA,1795000,3.0,2.0,CUPERTINO,1220.0,1960.0,11.0,1471.0,Active,MLSListings,ML81925196,37.3126083,-122.0083319
+MLS Listing,Single Family Residential,San Jose,CA,1250000,3.0,2.0,San Jose,1184.0,1970.0,11.0,1056.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41024614,37.2302525,-121.773393
+MLS Listing,Single Family Residential,San Jose,CA,1699000,4.0,2.0,SAN JOSE,1734.0,1969.0,11.0,980.0,Active,MLSListings,ML81911470,37.3017741,-121.780314
+MLS Listing,Single Family Residential,San Jose,CA,1499888,7.0,3.0,SAN JOSE,2236.0,1971.0,11.0,671.0,Active,MLSListings,ML81925171,37.2737228,-121.8437403
+MLS Listing,Single Family Residential,San Jose,CA,1590000,3.0,2.0,SAN JOSE,1187.0,1945.0,11.0,1340.0,Active,MLSListings,ML81925168,37.3219845,-121.9456001
+MLS Listing,Single Family Residential,San Jose,CA,1100000,4.0,3.0,SAN JOSE,1598.0,1958.0,11.0,688.0,Active,MLSListings,ML81924416,37.2780146,-121.8124273
+MLS Listing,Single Family Residential,San Jose,CA,1499888,3.0,2.5,SAN JOSE,1612.0,1964.0,12.0,930.0,Active,MLSListings,ML81925116,37.2821186,-121.9181325
+MLS Listing,Single Family Residential,San Jose,CA,3989987,5.0,4.0,SAN JOSE,3800.0,2007.0,12.0,1050.0,Active,MLSListings,ML81925128,37.2855842,-121.8879681
+MLS Listing,Single Family Residential,San Jose,CA,2350000,5.0,3.0,San Jose,2316.0,1976.0,12.0,1015.0,Active,MetroList,223032406,37.3075458,-121.7712565
+MLS Listing,Single Family Residential,San Jose,CA,1310000,3.0,2.0,SAN JOSE,1662.0,1977.0,12.0,788.0,Active,MLSListings,ML81923070,37.2526778,-121.8448968
+MLS Listing,Condo/Co-op,San Jose,CA,875000,2.0,1.5,SAN JOSE,1050.0,1964.0,12.0,833.0,Active,MLSListings,ML81925089,37.2999349,-122.0279923
+MLS Listing,Condo/Co-op,San Jose,CA,899000,2.0,1.5,SAN JOSE,1050.0,1964.0,12.0,856.0,Active,MLSListings,ML81925088,37.2999349,-122.0279923
+MLS Listing,Townhouse,San Jose,CA,1295000,4.0,3.5,SAN JOSE,2205.0,2016.0,12.0,587.0,Active,MLSListings,ML81925059,37.2442891,-121.7974803
+MLS Listing,Single Family Residential,San Jose,CA,2849888,4.0,4.5,SAN JOSE,3000.0,2023.0,12.0,950.0,Active,MLSListings,ML81923710,37.3059605,-121.8855448
+MLS Listing,Single Family Residential,San Jose,CA,2350000,6.0,5.5,SAN JOSE,3170.0,1960.0,12.0,741.0,Active,MLSListings,ML81925035,37.340438,-121.7736156
+MLS Listing,Condo/Co-op,San Jose,CA,799000,2.0,2.0,SAN JOSE,1258.0,2004.0,12.0,635.0,Active,MLSListings,ML81925033,37.319925,-121.9114869
+MLS Listing,Condo/Co-op,San Jose,CA,1050000,4.0,3.5,Santa Clara,1917.0,2014.0,12.0,548.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41024502,37.3383217,-121.8633223
+MLS Listing,Single Family Residential,San Jose,CA,1699000,3.0,3.0,SAN JOSE,2079.0,2007.0,12.0,817.0,Active,MLSListings,ML81924125,37.2517605,-121.9401279
+MLS Listing,Single Family Residential,San Jose,CA,1575000,4.0,2.0,SAN JOSE,1516.0,1965.0,12.0,1039.0,Active,MLSListings,ML81924783,37.2438094,-121.8458834
+MLS Listing,Single Family Residential,San Jose,CA,1264444,2.0,2.0,SAN JOSE,1321.0,1900.0,12.0,957.0,Active,MLSListings,ML81924953,37.3278025,-121.9109756
+MLS Listing,Single Family Residential,San Jose,CA,1195500,2.0,1.0,SAN JOSE,1104.0,1924.0,13.0,1083.0,Active,MLSListings,ML81924927,37.3380145,-121.9270225
+MLS Listing,Single Family Residential,San Jose,CA,1799000,4.0,2.5,SAN JOSE,2096.0,1976.0,13.0,858.0,Active,MLSListings,ML81924984,37.2737577,-121.8742955
+MLS Listing,Mobile/Manufactured Home,San Jose,CA,264900,3.0,2.0,SAN JOSE,1344.0,1974.0,13.0,197.0,Active,MLSListings,ML81924981,37.4107614,-121.9452446
+MLS Listing,Townhouse,San Jose,CA,1150000,3.0,3.0,SAN JOSE,1621.0,2008.0,13.0,709.0,Active,MLSListings,ML81923018,37.3228762,-121.903673
+MLS Listing,Single Family Residential,San Jose,CA,1999900,6.0,4.5,SAN JOSE,3435.0,1946.0,13.0,582.0,Active,MLSListings,ML81924966,37.3933272,-121.8234772
+MLS Listing,Condo/Co-op,San Jose,CA,1138888,3.0,2.0,SAN JOSE,1256.0,2020.0,13.0,907.0,Active,MLSListings,ML81924942,37.285041,-121.852722
+MLS Listing,Single Family Residential,San Jose,CA,1271400,4.0,2.0,SAN JOSE,1665.0,1947.0,13.0,764.0,Active,MLSListings,ML81924940,37.359677,-121.9084417
+MLS Listing,Multi-Family (2-4 Unit),San Jose,CA,800000,4.0,3.0,SAN JOSE,1536.0,1960.0,13.0,521.0,Active,MLSListings,ML81924923,37.2884441,-121.8279927
+MLS Listing,Single Family Residential,San Jose,CA,1888888,4.0,2.0,San Jose,1320.0,1954.0,13.0,1431.0,Active,BAREIS,323022264,37.2697688,-121.91498
+MLS Listing,Single Family Residential,San Jose,CA,1724900,3.0,2.5,Cambrian,1700.0,1958.0,14.0,1015.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41024380,37.2617954,-121.9113635
+MLS Listing,Single Family Residential,San Jose,CA,1788000,4.0,3.0,SAN JOSE,2241.0,1968.0,14.0,798.0,Active,MLSListings,ML81924844,37.2394503,-121.9218449
+MLS Listing,Mobile/Manufactured Home,San Jose,CA,310000,3.0,2.0,SAN JOSE,1300.0,2001.0,14.0,238.0,Active,MLSListings,ML81924793,37.252241,-121.809154
+MLS Listing,Other,San Jose,CA,3988888,6.0,3.0,SAN JOSE,3712.0,1914.0,15.0,1075.0,Active,MLSListings,ML81924831,37.3209653,-121.8866603
+MLS Listing,Single Family Residential,Alviso,CA,699999,3.0,2.0,ALVISO,1254.0,1940.0,15.0,558.0,Active,MLSListings,ML81924819,37.4306816,-121.9661893
+MLS Listing,Multi-Family (2-4 Unit),San Jose,CA,1170000,4.0,2.0,SAN JOSE,1800.0,1957.0,15.0,650.0,Active,MLSListings,ML81924802,37.3176179,-121.8937482
+MLS Listing,Townhouse,San Jose,CA,1950000,3.0,2.5,SAN JOSE,2129.0,1998.0,15.0,916.0,Active,MLSListings,ML81924799,37.1985965,-121.8478671
+MLS Listing,Townhouse,San Jose,CA,1525000,4.0,4.0,SAN JOSE,1784.0,2013.0,15.0,855.0,Active,MLSListings,ML81924796,37.3185157,-121.9459407
+MLS Listing,Single Family Residential,San Jose,CA,1299000,4.0,2.0,Cambrian,1391.0,1960.0,16.0,934.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41024312,37.2440839,-121.9061972
+MLS Listing,Single Family Residential,San Jose,CA,1950000,3.0,2.5,SAN JOSE,1957.0,1975.0,16.0,996.0,Active,MLSListings,ML81924779,37.2340602,-121.889933
+MLS Listing,Mobile/Manufactured Home,San Jose,CA,259999,2.0,2.0,SAN JOSE,1056.0,1975.0,16.0,246.0,Active,MLSListings,ML81924773,37.2984809,-121.9321339
+MLS Listing,Mobile/Manufactured Home,San Jose,CA,199900,2.0,2.0,SAN JOSE,1488.0,1976.0,16.0,134.0,Active,MLSListings,ML81924749,37.4174015,-121.9447557
+MLS Listing,Single Family Residential,San Jose,CA,2222222,3.0,1.0,SAN JOSE,1563.0,1950.0,16.0,1422.0,Active,MLSListings,ML81924747,37.3085923,-121.8461422
+MLS Listing,Mobile/Manufactured Home,San Jose,CA,420000,3.0,2.0,SAN JOSE,1180.0,2015.0,16.0,356.0,Active,MLSListings,ML81924745,37.371267,-121.88798
+MLS Listing,Single Family Residential,San Jose,CA,950000,2.0,1.0,SAN JOSE,864.0,1938.0,16.0,1100.0,Active,MLSListings,ML81924673,37.3532401,-121.8563722
+MLS Listing,Single Family Residential,San Jose,CA,3988000,6.0,5.0,SAN JOSE,6463.0,1987.0,16.0,617.0,Active,MLSListings,ML81924709,37.2184934,-121.8280482
+MLS Listing,Condo/Co-op,San Jose,CA,560000,1.0,1.0,SAN JOSE,733.0,2009.0,16.0,764.0,Active,MLSListings,ML81921997,37.311013,-121.882429
+MLS Listing,Mobile/Manufactured Home,San Jose,CA,179999,1.0,1.0,SAN JOSE,620.0,2001.0,16.0,290.0,Active,MLSListings,ML81924696,37.2989414,-121.876725
+MLS Listing,Single Family Residential,San Jose,CA,1985000,4.0,3.0,SAN JOSE,2063.0,1956.0,16.0,962.0,Active,MLSListings,ML81924688,37.2498992,-121.924353
+MLS Listing,Single Family Residential,San Jose,CA,1999000,4.0,2.5,SAN JOSE,2213.0,1971.0,16.0,903.0,Active,MLSListings,ML81924659,37.2330484,-121.8756955
+MLS Listing,Single Family Residential,San Jose,CA,1080000,3.0,2.0,SAN JOSE,1232.0,1967.0,16.0,877.0,Active,MLSListings,ML81924651,37.3113079,-121.8335536
+MLS Listing,Condo/Co-op,San Jose,CA,688888,2.0,2.0,SAN JOSE,1197.0,1974.0,17.0,576.0,Active,MLSListings,ML81923063,37.2850688,-121.753444
+MLS Listing,Single Family Residential,San Jose,CA,2250000,4.0,3.0,San Jose,2605.0,1941.0,17.0,864.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41024081,37.2970516,-121.8895466
+MLS Listing,Single Family Residential,San Jose,CA,1850000,4.0,2.5,SAN JOSE,1931.0,1976.0,17.0,958.0,Active,MLSListings,ML81924319,37.3269536,-121.7842528
+MLS Listing,Condo/Co-op,San Jose,CA,775000,2.0,2.0,SAN JOSE,1058.0,1985.0,17.0,733.0,Active,MLSListings,ML81924209,37.311839,-121.911143
+MLS Listing,Single Family Residential,San Jose,CA,1488000,4.0,2.0,SAN JOSE,1480.0,1974.0,18.0,1005.0,Active,MLSListings,ML81924476,37.3860965,-121.8785903
+MLS Listing,Single Family Residential,San Jose,CA,1851933,3.0,2.0,SAN JOSE,2063.0,1957.0,18.0,898.0,Active,MLSListings,ML81924462,37.2724691,-121.9277362
+MLS Listing,Single Family Residential,San Jose,CA,1399000,4.0,2.5,SAN JOSE,2140.0,1903.0,18.0,654.0,Active,MLSListings,ML81924453,37.3396348,-121.8778077
+MLS Listing,Multi-Family (2-4 Unit),San Jose,CA,1950000,9.0,2.0,SAN JOSE,3358.0,1962.0,18.0,581.0,Active,MLSListings,ML81924451,37.3100731,-121.9674626
+MLS Listing,Single Family Residential,San Jose,CA,935000,3.0,2.0,SAN JOSE,1123.0,1959.0,18.0,833.0,Active,MLSListings,ML81924448,37.2803853,-121.8237715
+MLS Listing,Single Family Residential,San Jose,CA,1669000,4.0,2.0,SAN JOSE,1475.0,1892.0,18.0,1132.0,Active,MLSListings,ML81923512,37.3164578,-121.8761179
+MLS Listing,Single Family Residential,San Jose,CA,925777,4.0,2.0,SAN JOSE,1365.0,1901.0,18.0,678.0,Active,MLSListings,ML81924000,37.3161341,-121.8843443
+MLS Listing,Single Family Residential,San Jose,CA,6888000,5.0,5.5,SAN JOSE,8309.0,2002.0,18.0,829.0,Active,MLSListings,ML81924431,37.2694257,-121.769899
+MLS Listing,Single Family Residential,San Jose,CA,1179000,3.0,1.0,SAN JOSE,925.0,1915.0,18.0,1275.0,Active,MLSListings,ML81923481,37.350993,-121.8863007
+MLS Listing,Condo/Co-op,San Jose,CA,599999,2.0,2.0,SAN JOSE,968.0,1982.0,18.0,620.0,Active,MLSListings,ML81924364,37.3200668,-121.9167101
+MLS Listing,Mobile/Manufactured Home,San Jose,CA,185000,2.0,1.0,SAN JOSE,800.0,1978.0,19.0,231.0,Active,MLSListings,ML81924327,37.2957573,-121.8408934
+MLS Listing,Condo/Co-op,San Jose,CA,1250000,2.0,2.0,SAN JOSE,1345.0,2021.0,19.0,929.0,Active,MLSListings,ML81924301,37.317779,-121.953816
+MLS Listing,Condo/Co-op,San Jose,CA,825000,2.0,1.0,SAN JOSE,852.0,1962.0,19.0,968.0,Active,MLSListings,ML81924300,37.3035766,-122.0299537
+MLS Listing,Single Family Residential,San Jose,CA,1988000,5.0,2.5,SAN JOSE,3009.0,1935.0,19.0,661.0,Active,MLSListings,ML81924294,37.334484,-121.9262669
+MLS Listing,Single Family Residential,San Jose,CA,1799888,4.0,3.0,SAN JOSE,1825.0,1952.0,19.0,986.0,Active,MLSListings,ML81924219,37.312171,-121.8886573
+MLS Listing,Single Family Residential,San Jose,CA,1233000,3.0,2.0,SAN JOSE,1231.0,1948.0,20.0,1002.0,Active,MLSListings,ML81902871,37.356637,-121.9123093
+MLS Listing,Multi-Family (2-4 Unit),San Jose,CA,1250000,3.0,6.0,SAN JOSE,1947.0,1925.0,20.0,642.0,Active,MLSListings,ML81924193,37.3452176,-121.8677131
+MLS Listing,Single Family Residential,Campbell,CA,1475000,3.0,2.0,CAMPBELL,1528.0,1977.0,20.0,965.0,Active,MLSListings,ML81924187,37.2966255,-121.9624417
+MLS Listing,Single Family Residential,San Jose,CA,1450000,4.0,2.5,SAN JOSE,1648.0,1957.0,20.0,880.0,Active,MLSListings,ML81924181,37.3171491,-121.9635525
+MLS Listing,Mobile/Manufactured Home,San Jose,CA,242500,2.0,2.0,SAN JOSE,1100.0,1969.0,20.0,220.0,Active,MLSListings,ML81924155,37.2776771,-121.8626073
+MLS Listing,Condo/Co-op,San Jose,CA,529000,1.0,1.0,SAN JOSE,885.0,1986.0,20.0,598.0,Active,MLSListings,ML81923790,37.3402198,-121.8910805
+MLS Listing,Multi-Family (5+ Unit),San Jose,CA,6350000,24.0,16.0,SAN JOSE,11600.0,1958.0,21.0,547.0,Active,MLSListings,ML81924057,37.313655,-121.9105
+MLS Listing,Single Family Residential,San Jose,CA,1380000,4.0,2.5,699 - Not Defined,1732.0,1973.0,21.0,797.0,Active,CRMLS,OC23058083,37.2653046,-121.8272478
+MLS Listing,Single Family Residential,San Jose,CA,1999888,4.0,2.5,SAN JOSE,2204.0,1968.0,23.0,907.0,Active,MLSListings,ML81895720,37.2320084,-121.8748951
+MLS Listing,Single Family Residential,San Jose,CA,1350000,3.0,2.0,SAN JOSE,1402.0,1973.0,23.0,963.0,Active,MLSListings,ML81923977,37.2975554,-121.8130661
+MLS Listing,Condo/Co-op,San Jose,CA,555000,2.0,1.0,SAN JOSE,810.0,1970.0,23.0,685.0,Active,MLSListings,ML81923948,37.2520453,-121.8256286
+MLS Listing,Single Family Residential,San Jose,CA,1399900,5.0,2.5,SAN JOSE,1887.0,1908.0,23.0,742.0,Active,MLSListings,ML81923901,37.3399804,-121.8801645
+MLS Listing,Single Family Residential,San Jose,CA,1550000,4.0,3.0,SAN JOSE,1900.0,1920.0,24.0,816.0,Active,MLSListings,ML81923860,37.3354838,-121.9290671
+MLS Listing,Other,San Jose,CA,990000,2.0,1.0,Other Out of Area,792.0,1972.0,24.0,1250.0,Active,CCAR,202300330,37.2283305,-121.7563446
+MLS Listing,Single Family Residential,San Jose,CA,998888,3.0,2.0,SAN JOSE,1206.0,1960.0,24.0,828.0,Active,MLSListings,ML81923831,37.2617764,-121.8088073
+MLS Listing,Condo/Co-op,Santa Clara,CA,1309606,2.0,2.0,Santa Clara,1413.0,2023.0,24.0,927.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41023437,37.3265891,-121.9525326
+MLS Listing,Single Family Residential,San Jose,CA,2490000,4.0,4.0,SAN JOSE,3141.0,2023.0,24.0,793.0,Active,MLSListings,ML81915913,37.3847664,-121.8898133
+MLS Listing,Single Family Residential,San Jose,CA,1198888,3.0,2.0,SAN JOSE,1472.0,1967.0,24.0,814.0,Active,MLSListings,ML81923696,37.3445768,-121.7911064
+MLS Listing,Condo/Co-op,San Jose,CA,468000,1.0,1.0,SAN JOSE,658.0,1988.0,25.0,711.0,Active,MLSListings,ML81911424,37.3113564,-121.9390077
+MLS Listing,Single Family Residential,San Jose,CA,2985000,4.0,4.5,SAN JOSE,2810.0,2023.0,25.0,1062.0,Active,MLSListings,ML81923738,37.265108,-121.934605
+MLS Listing,Single Family Residential,San Jose,CA,1950000,3.0,2.5,SAN JOSE,2277.0,2023.0,25.0,856.0,Active,MLSListings,ML81915989,37.3845403,-121.8896876
+MLS Listing,Townhouse,San Jose,CA,1525000,4.0,4.5,SAN JOSE,2438.0,2007.0,25.0,626.0,Active,MLSListings,ML81923715,37.2724087,-121.9079282
+MLS Listing,Single Family Residential,San Jose,CA,1888888,5.0,3.0,SAN JOSE,2347.0,1980.0,25.0,805.0,Active,MLSListings,ML81923706,37.233562,-121.7708987
+MLS Listing,Condo/Co-op,San Jose,CA,1099000,3.0,2.5,SAN JOSE,1983.0,2000.0,25.0,554.0,Active,MLSListings,ML81923424,37.2816461,-121.8575303
+MLS Listing,Condo/Co-op,San Jose,CA,1198000,2.0,2.0,SAN JOSE,1793.0,1995.0,25.0,668.0,Active,MLSListings,ML81923359,37.280938,-121.766801
+MLS Listing,Multi-Family (5+ Unit),San Jose,CA,1950000,6.0,6.0,SAN JOSE,2938.0,1957.0,26.0,664.0,Active,MLSListings,ML81923595,37.2977639,-121.9491553
+MLS Listing,Mobile/Manufactured Home,San Jose,CA,199999,2.0,1.0,SAN JOSE,693.0,2000.0,26.0,289.0,Active,MLSListings,ML81923352,37.3428659,-121.8525139
+MLS Listing,Single Family Residential,San Jose,CA,1725000,4.0,3.0,SAN JOSE,2048.0,1998.0,26.0,842.0,Active,MLSListings,ML81923558,37.2395728,-121.8111084
+MLS Listing,Condo/Co-op,San Jose,CA,1299888,2.0,2.0,SAN JOSE,1900.0,2019.0,26.0,684.0,Active,MLSListings,ML81923549,37.2842229,-121.8500278
+MLS Listing,Single Family Residential,San Jose,CA,2198000,4.0,2.5,SAN JOSE,2000.0,1960.0,26.0,1099.0,Active,MLSListings,ML81923545,37.2492346,-121.915774
+MLS Listing,Condo/Co-op,San Jose,CA,1039000,3.0,3.0,SAN JOSE,1822.0,2017.0,26.0,570.0,Active,MLSListings,ML81923538,37.2507457,-121.7967401
+MLS Listing,Single Family Residential,San Jose,CA,2198000,4.0,3.0,SAN JOSE,1931.0,1964.0,26.0,1138.0,Active,MLSListings,ML81923528,37.2579566,-121.9043295
+MLS Listing,Condo/Co-op,San Jose,CA,1148000,4.0,3.0,San Jose,1846.0,1990.0,27.0,622.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41016994,37.3836632,-121.8899456
+MLS Listing,Mobile/Manufactured Home,San Jose,CA,330000,3.0,2.0,SAN JOSE,1440.0,1972.0,27.0,229.0,Active,MLSListings,ML81917441,37.3964341,-121.902613
+MLS Listing,Multi-Family (2-4 Unit),San Jose,CA,1475000,4.0,2.0,SAN JOSE,1757.0,1959.0,27.0,839.0,Active,MLSListings,ML81923412,37.271216,-121.9326988
+MLS Listing,Condo/Co-op,San Jose,CA,499500,2.0,2.0,San Jose,1223.0,1969.0,27.0,408.0,Active,MetroList,223026045,37.295636,-121.756728
+MLS Listing,Single Family Residential,San Jose,CA,1449999,4.0,2.5,SAN JOSE,2113.0,1988.0,28.0,686.0,Active,MLSListings,ML81923426,37.3275215,-121.8081495
+MLS Listing,Single Family Residential,San Jose,CA,2199950,3.0,2.0,SAN JOSE,2163.0,1939.0,29.0,1017.0,Active,MLSListings,ML81922721,37.3038675,-121.889013
+MLS Listing,Condo/Co-op,San Jose,CA,775000,2.0,2.0,SAN JOSE,1170.0,2008.0,30.0,662.0,Active,MLSListings,ML81923349,37.3113172,-121.9162433
+MLS Listing,Single Family Residential,San Jose,CA,1550000,4.0,2.5,SAN JOSE,2192.0,1999.0,30.0,707.0,Active,MLSListings,ML81923348,37.2425724,-121.8141117
+MLS Listing,Townhouse,San Jose,CA,1280000,4.0,3.5,SAN JOSE,2093.0,2015.0,30.0,612.0,Active,MLSListings,ML81923321,37.2454039,-121.7986493
+MLS Listing,Single Family Residential,San Jose,CA,1350000,3.0,2.0,SAN JOSE,2032.0,1997.0,30.0,664.0,Active,MLSListings,ML81923303,37.286445,-121.7390861
+MLS Listing,Condo/Co-op,San Jose,CA,488000,1.0,1.0,SAN JOSE,648.0,1988.0,30.0,753.0,Active,MLSListings,ML81923287,37.2736366,-121.8589732
+MLS Listing,Townhouse,San Jose,CA,808888,3.0,1.5,SAN JOSE,1308.0,1977.0,30.0,618.0,Active,MLSListings,ML81922996,37.2591082,-121.8302375
+MLS Listing,Condo/Co-op,San Jose,CA,749000,2.0,2.0,Santa Clara,1191.0,1985.0,30.0,629.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41023034,37.3195711,-121.9700133
+MLS Listing,Condo/Co-op,San Jose,CA,849000,1.0,2.0,SAN JOSE,1420.0,2004.0,30.0,598.0,Active,MLSListings,ML81922961,37.349434,-121.8899
+MLS Listing,Condo/Co-op,San Jose,CA,819000,2.0,2.5,SAN JOSE,1488.0,1996.0,30.0,550.0,Active,MLSListings,ML81922623,37.3339721,-121.8857869
+MLS Listing,Single Family Residential,San Jose,CA,1899888,3.0,2.0,SAN JOSE,1858.0,1971.0,30.0,1023.0,Active,MLSListings,ML81923206,37.239127,-121.8813681
+MLS Listing,Single Family Residential,Cupertino,CA,5198000,5.0,5.0,CUPERTINO,3630.0,2023.0,30.0,1432.0,Active,MLSListings,ML81923203,37.3135325,-122.0334234
+MLS Listing,Single Family Residential,San Jose,CA,2895000,5.0,2.5,SAN JOSE,3367.0,1980.0,31.0,860.0,Active,MLSListings,ML81923066,37.2290618,-121.8769406
+MLS Listing,Single Family Residential,San Jose,CA,7999000,3.0,2.0,SAN JOSE,1300.0,1937.0,32.0,6153.0,Active,MLSListings,ML81923037,37.3050039,-121.793041
+MLS Listing,Mobile/Manufactured Home,San Jose,CA,399000,3.0,2.0,SAN JOSE,1218.0,2002.0,32.0,328.0,Active,MLSListings,ML81923015,37.3014893,-121.8706371
+MLS Listing,Single Family Residential,San Jose,CA,3895000,4.0,4.5,SAN JOSE,3996.0,2023.0,32.0,975.0,Active,MLSListings,ML81923010,37.2854556,-121.888146
+MLS Listing,Single Family Residential,San Jose,CA,1930000,4.0,3.0,SAN JOSE,2031.0,1976.0,32.0,950.0,Active,MLSListings,ML81922954,37.2509576,-121.8827067
+MLS Listing,Single Family Residential,San Jose,CA,2099000,5.0,2.5,SAN JOSE,2430.0,1964.0,33.0,864.0,Active,MLSListings,ML81921773,37.279463,-121.9131983
+MLS Listing,Multi-Family (5+ Unit),San Jose,CA,1900000,6.0,6.0,SAN JOSE,3038.0,1970.0,33.0,625.0,Active,MLSListings,ML81922921,37.3450454,-121.8875235
+MLS Listing,Single Family Residential,San Jose,CA,2099000,3.0,2.5,SAN JOSE,2014.0,1973.0,33.0,1042.0,Active,MLSListings,ML81921771,37.2316351,-121.8779232
+MLS Listing,Multi-Family (2-4 Unit),San Jose,CA,1649000,8.0,4.0,SAN JOSE,3369.0,1971.0,34.0,489.0,Active,MLSListings,ML81922804,37.296447,-121.8279038
+MLS Listing,Single Family Residential,San Jose,CA,4188888,6.0,5.5,SAN JOSE,4639.0,2005.0,34.0,903.0,Active,MLSListings,ML81922808,37.283446,-121.7930572
+MLS Listing,Single Family Residential,San Jose,CA,2798000,5.0,3.0,SAN JOSE,3226.0,1964.0,34.0,867.0,Active,MLSListings,ML81912446,37.305807,-121.9431559
+MLS Listing,Condo/Co-op,San Jose,CA,699950,2.0,2.0,SAN JOSE,1138.0,1985.0,35.0,615.0,Active,MLSListings,ML81921312,37.2417849,-121.8658489
+MLS Listing,Single Family Residential,San Jose,CA,3200000,5.0,4.5,SAN JOSE,3910.0,2003.0,36.0,818.0,Active,MLSListings,ML81910494,37.2903445,-121.7901051
+MLS Listing,Condo/Co-op,Santa Clara,CA,1411009,2.0,2.0,Santa Clara,1609.0,2023.0,37.0,877.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41022450,37.3265891,-121.9525326
+MLS Listing,Single Family Residential,San Jose,CA,1888888,4.0,2.0,SAN JOSE,1593.0,1949.0,37.0,1186.0,Active,MLSListings,ML81922670,37.3140427,-121.9008396
+MLS Listing,Condo/Co-op,San Jose,CA,1249000,2.0,2.0,SAN JOSE,1793.0,1995.0,37.0,697.0,Active,MLSListings,ML81922547,37.281658,-121.766592
+MLS Listing,Single Family Residential,San Jose,CA,2998000,6.0,5.5,SAN JOSE,2498.0,1924.0,38.0,1200.0,Active,MLSListings,ML81922319,37.2982677,-121.8930146
+MLS Listing,Single Family Residential,San Jose,CA,1679800,4.0,2.5,San Jose Cc,1680.0,2018.0,38.0,1000.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41019816,37.3216773,-121.9594893
+MLS Listing,Single Family Residential,San Jose,CA,3189000,5.0,3.5,SAN JOSE,2537.0,1963.0,38.0,1257.0,Active,MLSListings,ML81921236,37.2799227,-121.8960602
+MLS Listing,Condo/Co-op,San Jose,CA,695000,2.0,2.0,SAN JOSE,982.0,1994.0,40.0,708.0,Active,MLSListings,ML81922248,37.2427,-121.865073
+MLS Listing,Single Family Residential,San Jose,CA,1599888,3.0,2.0,SAN JOSE,1996.0,1964.0,41.0,802.0,Active,MLSListings,ML81922124,37.1751135,-121.8213416
+MLS Listing,Condo/Co-op,Hayward,CA,568000,2.0,1.5,Hayward,1101.0,1980.0,38.0,516.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41022271,37.6857569,-122.0962633
+MLS Listing,Single Family Residential,Hayward,CA,2225000,5.0,3.0,Bailey Ranch,3237.0,2000.0,51.0,687.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41020638,37.649399,-122.018347
+MLS Listing,Townhouse,Hayward,CA,730000,3.0,3.0,HAYWARD,1224.0,1997.0,2.0,596.0,Active,MLSListings,ML81924757,37.668583,-122.0847337
+MLS Listing,Multi-Family (2-4 Unit),Hayward,CA,1980000,9.0,9.0,Hayward,5126.0,1987.0,2.0,386.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41025714,37.665481,-122.0870067
+MLS Listing,Single Family Residential,Castro Valley,CA,935000,3.0,2.0,Castro Valley,1468.0,1959.0,2.0,637.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41025627,37.6855722,-122.0692965
+MLS Listing,Single Family Residential,Hayward,CA,1678000,5.0,3.0,HAYWARD,2915.0,2017.0,2.0,576.0,Active,MLSListings,ML81920688,37.6379323,-122.0456784
+MLS Listing,Condo/Co-op,Hayward,CA,539000,2.0,2.0,Jackson Triangle,1160.0,1984.0,2.0,465.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41025586,37.632843,-122.062045
+MLS Listing,Single Family Residential,Hayward,CA,649999,3.0,2.0,HAYWARD,1473.0,1955.0,3.0,441.0,Active,MLSListings,ML81926232,37.613493,-122.0377068
+MLS Listing,Condo/Co-op,Hayward,CA,749000,2.0,2.0,HAYWARD,1501.0,2020.0,3.0,499.0,Active,MLSListings,ML81926201,37.630559,-122.049863
+MLS Listing,Multi-Family (2-4 Unit),Hayward,CA,1800000,10.0,7.0,HAYWARD,4192.0,1966.0,3.0,429.0,Active,MLSListings,ML81926222,37.6336152,-122.0960991
+MLS Listing,Condo/Co-op,Hayward,CA,519950,2.0,1.5,Bridgeport,1152.0,1982.0,3.0,451.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41025450,37.6404065,-122.0974461
+MLS Listing,Townhouse,Hayward,CA,688888,3.0,2.5,Hayward,1425.0,1982.0,3.0,483.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41025420,37.6329471,-122.0627646
+MLS Listing,Single Family Residential,Hayward,CA,808000,3.0,2.0,Shaefer Park,1358.0,1954.0,4.0,595.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41025408,37.6447974,-122.0893944
+MLS Listing,Townhouse,Hayward,CA,899000,4.0,3.0,HAYWARD,1812.0,2019.0,4.0,496.0,Active,MLSListings,ML81926073,37.6557225,-122.089069
+MLS Listing,Condo/Co-op,Hayward,CA,599900,2.0,2.0,Mesa Verde,1100.0,1993.0,4.0,545.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41025391,37.687492,-122.0909588
+MLS Listing,Condo/Co-op,Hayward,CA,849000,3.0,2.5,Orchard Park,1391.0,2002.0,4.0,610.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41025242,37.6597312,-122.0764003
+MLS Listing,Single Family Residential,Hayward,CA,579000,3.0,2.5,Ashland,1724.0,1948.0,5.0,336.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41025288,37.6907264,-122.1031735
+MLS Listing,Single Family Residential,Hayward,CA,629000,3.0,2.0,Central Hayward,1153.0,1958.0,5.0,546.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41025285,37.6316746,-122.1050802
+MLS Listing,Condo/Co-op,Hayward,CA,675000,3.0,3.0,Atherton,1595.0,2004.0,5.0,423.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41025277,37.667961,-122.084156
+MLS Listing,Condo/Co-op,Hayward,CA,590000,2.0,2.0,Mesa Verde,1118.0,1980.0,5.0,528.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41025244,37.6882761,-122.0915813
+MLS Listing,Single Family Residential,Hayward,CA,1169000,4.0,2.0,Central Hayward,2120.0,1951.0,6.0,551.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41025197,37.6726837,-122.1168278
+MLS Listing,Multi-Family (2-4 Unit),Hayward,CA,995000,3.0,3.0,Hayward,1377.0,2022.0,6.0,723.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41025188,37.6651196,-122.1007312
+MLS Listing,Single Family Residential,Hayward,CA,898000,4.0,2.0,Fairview,1502.0,1959.0,6.0,598.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41025123,37.6790764,-122.0580072
+MLS Listing,Townhouse,Hayward,CA,699900,3.0,3.0,Atherton Place,1224.0,1997.0,6.0,572.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41024949,37.6686945,-122.0845652
+MLS Listing,Single Family Residential,Hayward,CA,699000,2.0,1.0,Cherryland,1104.0,1923.0,6.0,633.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41025104,37.6253394,-122.0504057
+MLS Listing,Townhouse,Hayward,CA,964016,3.0,3.0,Hayward,1940.0,2023.0,8.0,497.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41025062,37.6281811,-122.0454936
+MLS Listing,Condo/Co-op,Hayward,CA,490000,2.0,2.0,Hayward Hills,1208.0,1983.0,8.0,406.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41025060,37.6548734,-122.0462525
+MLS Listing,Single Family Residential,Hayward,CA,1179000,4.0,3.0,HAYWARD,2050.0,2007.0,9.0,575.0,Active,MLSListings,ML81925638,37.6825806,-122.0572217
+MLS Listing,Single Family Residential,Hayward,CA,1395000,4.0,2.5,Hayward,2046.0,2019.0,9.0,682.0,Active,San Francisco MLS,423736182,37.6124454,-122.0872286
+MLS Listing,Condo/Co-op,Hayward,CA,789000,2.0,2.0,Garin Heights,1501.0,2020.0,9.0,526.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41024946,37.6297905,-122.0508922
+MLS Listing,Single Family Residential,Hayward,CA,1495000,5.0,3.5,Hayward,2457.0,2005.0,10.0,608.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41024875,37.6095029,-122.0940945
+MLS Listing,Single Family Residential,Hayward,CA,560000,3.0,1.0,Fairway,1221.0,1951.0,10.0,459.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41024843,37.6128277,-122.0355737
+MLS Listing,Single Family Residential,Hayward,CA,818888,3.0,2.0,Eden,1000.0,1955.0,10.0,819.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41024131,37.6253542,-122.0868291
+MLS Listing,Single Family Residential,Hayward,CA,1350000,4.0,3.0,Hayward,2444.0,1963.0,10.0,552.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41024751,37.6816017,-122.0631039
+MLS Listing,Townhouse,Hayward,CA,998000,4.0,3.5,Hayward,2018.0,2022.0,10.0,495.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41024725,37.6286202,-122.0475275
+MLS Listing,Single Family Residential,Hayward,CA,820000,2.0,2.0,Hayward,990.0,1986.0,11.0,828.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41024643,37.6255713,-122.0551352
+MLS Listing,Condo/Co-op,Hayward,CA,911208,3.0,2.5,HAYWARD,1948.0,2023.0,11.0,468.0,Active,MLSListings,ML81925219,37.6290232,-122.0474573
+MLS Listing,Single Family Residential,Hayward,CA,1575000,5.0,5.5,Highlands,3581.0,2019.0,11.0,440.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41024630,37.6576166,-122.0482092
+MLS Listing,Condo/Co-op,Hayward,CA,889000,2.0,2.5,HAYWARD,1718.0,2020.0,12.0,517.0,Active,MLSListings,ML81924500,37.6281,-122.0508893
+MLS Listing,Single Family Residential,Hayward,CA,750000,3.0,1.0,Hayward,1167.0,1950.0,12.0,643.0,Active,MetroList,223032390,37.6478866,-122.0655233
+MLS Listing,Condo/Co-op,Hayward,CA,525000,2.0,2.0,A Street,989.0,1984.0,12.0,531.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41022715,37.6773534,-122.0776234
+MLS Listing,Single Family Residential,Castro Valley,CA,1400000,4.0,3.0,Castro Valley,2376.0,1944.0,12.0,589.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41024387,37.6856108,-122.0862924
+MLS Listing,Single Family Residential,Hayward,CA,749000,3.0,1.0,Ashland,1239.0,1947.0,12.0,605.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41024501,37.6910825,-122.1028942
+MLS Listing,Single Family Residential,Hayward,CA,2760000,4.0,4.5,Stonebrae Country Club,4142.0,2015.0,13.0,666.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41024467,37.6523187,-122.0101751
+MLS Listing,Single Family Residential,Hayward,CA,749950,3.0,2.0,Shaefer Park,1169.0,1957.0,13.0,642.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41023455,37.6347258,-122.0813973
+MLS Listing,Townhouse,Hayward,CA,600000,2.0,2.0,Burbank,1010.0,1991.0,13.0,594.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41024443,37.6701743,-122.1089739
+MLS Listing,Single Family Residential,San Lorenzo,CA,979800,4.0,3.0,Ca Village,1847.0,1990.0,14.0,530.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41024394,37.6702779,-122.1196453
+MLS Listing,Single Family Residential,Hayward,CA,1049888,4.0,3.0,HAYWARD,2249.0,1979.0,16.0,467.0,Active,MLSListings,ML81924655,37.6487113,-122.1096573
+MLS Listing,Single Family Residential,Hayward,CA,777000,4.0,2.0,HAYWARD,1598.0,1948.0,17.0,486.0,Active,MLSListings,ML81924607,37.664025,-122.0725813
+MLS Listing,Multi-Family (2-4 Unit),Hayward,CA,1399000,8.0,4.0,Hayward,2752.0,1962.0,21.0,508.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41018328,37.636726,-122.0757388
+MLS Listing,Single Family Residential,Hayward,CA,859000,3.0,2.0,HAYWARD,1647.0,1951.0,24.0,522.0,Active,MLSListings,ML81923882,37.6092224,-122.0324687
+MLS Listing,Townhouse,Hayward,CA,659000,2.0,2.5,Hayward Hills,1208.0,1978.0,25.0,546.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41023345,37.6739274,-122.0656783
+MLS Listing,Single Family Residential,Hayward,CA,2300000,6.0,4.5,HAYWARD,4241.0,2008.0,26.0,542.0,Active,MLSListings,ML81923557,37.6555798,-122.0149717
+MLS Listing,Condo/Co-op,Hayward,CA,594000,3.0,2.0,Hayward,958.0,1986.0,26.0,620.0,Active,MetroList,223027101,37.6443892,-122.1025516
+MLS Listing,Single Family Residential,Hayward,CA,1280000,4.0,3.0,HAYWARD,2496.0,1989.0,29.0,513.0,Active,MLSListings,ML81923373,37.6912485,-122.0577119
+MLS Listing,Condo/Co-op,Hayward,CA,831305,2.0,2.0,HAYWARD,1501.0,2023.0,30.0,554.0,Active,MLSListings,ML81923261,37.6325751,-122.0491667
+MLS Listing,Single Family Residential,Hayward,CA,1688000,5.0,3.0,Hayward,2915.0,2017.0,31.0,579.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41022813,37.6369374,-122.0450124
+MLS Listing,Townhouse,Hayward,CA,629999,2.0,2.5,Hayward,1208.0,1978.0,31.0,522.0,Active,CRMLS,SB23051353,37.6734083,-122.0663681
+MLS Listing,Single Family Residential,Hayward,CA,630000,2.0,1.0,Central Hayward,933.0,1920.0,36.0,675.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41022489,37.6713667,-122.0795501
+MLS Listing,Single Family Residential,Hayward,CA,835000,3.0,2.0,Hayward,1119.0,1956.0,37.0,746.0,Active,San Francisco MLS,423729715,37.6325377,-122.0806478
+MLS Listing,Single Family Residential,Hayward,CA,1029700,4.0,2.0,Hayward,1550.0,1951.0,39.0,664.0,Active,MetroList,223006339,37.6522473,-122.0660245
+MLS Listing,Condo/Co-op,Hayward,CA,954910,4.0,3.5,HAYWARD,2140.0,2023.0,39.0,446.0,Active,MLSListings,ML81922372,37.629005,-122.0474988
+MLS Listing,Single Family Residential,Hayward,CA,699000,2.0,1.0,Jackson Triangle,812.0,1950.0,43.0,861.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41021935,37.6532965,-122.0739043
+MLS Listing,Single Family Residential,Hayward,CA,699000,2.0,1.0,HAYWARD,816.0,1935.0,45.0,857.0,Active,MLSListings,ML81921688,37.6736928,-122.0758216
+MLS Listing,Single Family Residential,Hayward,CA,1199000,5.0,4.0,Downtown Hayward,2600.0,1914.0,47.0,461.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41021513,37.6762953,-122.0714272
+MLS Listing,Townhouse,Hayward,CA,788800,3.0,2.5,Lakewood Village,1693.0,1980.0,48.0,466.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41021384,37.6891343,-122.0532261
+MLS Listing,Condo/Co-op,Hayward,CA,1026000,4.0,3.5,Hayward,1984.0,2023.0,52.0,517.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41021127,37.6270256,-122.0496521
+MLS Listing,Single Family Residential,Hayward,CA,950000,4.0,2.0,Fairview,1746.0,1979.0,59.0,544.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41020542,37.6884622,-122.0568766
+MLS Listing,Single Family Residential,Hayward,CA,1688888,4.0,3.5,Hayward,3031.0,2004.0,60.0,557.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41020496,37.6095813,-122.0909879
+MLS Listing,Single Family Residential,Hayward,CA,1300000,4.0,2.5,HAYWARD,1866.0,1999.0,63.0,697.0,Active,MLSListings,ML81919240,37.6313337,-122.0587839
+MLS Listing,Single Family Residential,San Lorenzo,CA,849900,3.0,1.0,San Lorenzo Vilg,1325.0,1951.0,74.0,641.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41019353,37.6651086,-122.1326669
+MLS Listing,Single Family Residential,Hayward,CA,1175000,4.0,3.0,Fairview,2020.0,1954.0,81.0,582.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41018803,37.6713978,-122.0531817
+MLS Listing,Single Family Residential,Hayward,CA,1299500,5.0,3.0,Highlands,2578.0,1967.0,81.0,504.0,Active,MetroList,223010202,37.6552411,-122.0348573
+MLS Listing,Mobile/Manufactured Home,Hayward,CA,300000,3.0,2.0,Eden,1400.0,2011.0,97.0,214.0,Active,MetroList,223003806,37.6495538,-122.113145
+MLS Listing,Single Family Residential,Hayward,CA,2688000,4.0,4.5,HAYWARD,4674.0,2016.0,107.0,575.0,Active,MLSListings,ML81913245,37.6477917,-122.0073992
+MLS Listing,Single Family Residential,Hayward,CA,1800000,2.0,1.0,Hayward,980.0,1923.0,114.0,1837.0,Active,MetroList,223000832,37.6281624,-122.0495411
+MLS Listing,Single Family Residential,Hayward,CA,930000,3.0,2.0,Hayward,1000.0,1955.0,142.0,930.0,Active,CRMLS,OC22252828,37.6266507,-122.0851408
+MLS Listing,Single Family Residential,Hayward,CA,1190000,3.0,3.5,Hayward,1854.0,2010.0,143.0,642.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41015460,37.647842,-122.118325
+MLS Listing,Mobile/Manufactured Home,Hayward,CA,359000,2.0,2.0,HAYWARD,1399.0,2013.0,149.0,257.0,Active,MLSListings,ML81914191,37.6244906,-122.0606179
+MLS Listing,Multi-Family (2-4 Unit),Hayward,CA,899950,4.0,2.0,Hayward,1560.0,1963.0,163.0,577.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41014444,37.6730369,-122.1061063
+MLS Listing,Single Family Residential,Hayward,CA,649950,2.0,1.0,Hayward,827.0,1922.0,163.0,786.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41014442,37.6729321,-122.1061955
+MLS Listing,Single Family Residential,Hayward,CA,1499950,2.0,1.0,Hayward,1466.0,1925.0,163.0,1023.0,Active,"bridgeMLS, Bay East AOR, or Contra Costa AOR",41014440,37.6627324,-122.0590863
+MLS Listing,Single Family Residential,Hayward,CA,1424000,4.0,3.0,Hayward,2596.0,1947.0,205.0,549.0,Active,San Francisco MLS,422700286,37.6792698,-122.0554459
+MLS Listing,Single Family Residential,Hayward,CA,3850000,2.0,1.0,HAYWARD,1626.0,1890.0,218.0,2368.0,Active,MLSListings,ML81908435,37.6814713,-122.0517756

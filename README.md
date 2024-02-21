@@ -1,4 +1,4 @@
-#Real Estate Price Prediction
+#Real Estate Price Prediction.
 
 Redfin is very popular real estate service platform which offers multiple services to the users and has variety of data.
 
